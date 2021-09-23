@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 055b5a0455546af479f97e80a33cc343, type: 3}
+  m_Name: PT_Intro
+  m_EditorClassIdentifier: 
+  title: Plomberie au tripot
+  description: "Alors que vous sirotez tranquillement un diabolo banane en terrasse,
+    vous \xEAtes accost\xE9 par un rottweiler au poils fatigu\xE9s qui d\xE9pose
+    une carte de visite \xE0 vos pieds en ouvrant doucement la gueule. Vous y lisez
+    : \"Yvon - Voyance et Plomberie - 7 rue des Lilas\"."
+  isConclusion: 0
+  conclusionSprite: {fileID: 0}
+  choiceLeft: {fileID: 11400000, guid: a8fa54eca3d3f964395ad32c2a8090e5, type: 2}
+  choiceRight: {fileID: 11400000, guid: 11b7d435e9a7b1948b7681f38fd79184, type: 2}

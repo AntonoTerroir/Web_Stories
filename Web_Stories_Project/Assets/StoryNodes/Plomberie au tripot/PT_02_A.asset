@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 055b5a0455546af479f97e80a33cc343, type: 3}
+  m_Name: PT_02_A
+  m_EditorClassIdentifier: 
+  title: Le gang
+  description: "Malgr\xE9 quelques paris risqu\xE9s, vos gains sont titanesques.
+    Vous gagnez la confiance des chiens. Apr\xE8s quatre ans de bons et loyaux services
+    comme homme de main pour le tripot canin, vous voil\xE0 pris au milieu d\u2019une
+    \xE9chauffour\xE9e dans le golfe du Mexique pour une histoire de falsification
+    de p\xE9digr\xE9. Vous mourrez truff\xE9 de plomb, mais riche, et heureux.\r"
+  isConclusion: 1
+  conclusionSprite: {fileID: 0}
+  choiceLeft: {fileID: 0}
+  choiceRight: {fileID: 0}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 055b5a0455546af479f97e80a33cc343, type: 3}
+  m_Name: PT_01
+  m_EditorClassIdentifier: 
+  title: Chez Yvon
+  description: "Vous d\xE9barquez au milieu d\u2019une chaufferie aux murs couvert
+    de tuyauterie finement entrem\xEAl\xE9e. Un homme bedonnant en marcel blanc et
+    salopette moulante vous accueille d\u2019un haussement de moustache. Il vous
+    pr\xE9sente deux clefs \xE0 molette : une verte et une rouge."
+  isConclusion: 0
+  conclusionSprite: {fileID: 0}
+  choiceLeft: {fileID: 11400000, guid: a7c617ae693be7e40aeee3a4d0d3bc4d, type: 2}
+  choiceRight: {fileID: 11400000, guid: cef02bcaeca90af4e90b219cd140fbbf, type: 2}
