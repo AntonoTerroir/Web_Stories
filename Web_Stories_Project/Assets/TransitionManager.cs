@@ -9,7 +9,7 @@ public class TransitionManager : MonoBehaviour
     public CanvasGroup transitionOneCG;
     public float speedTransition = 1.0f;
     public int transNumber = 2;
-    private int transID;
+    private int transID = 1;
 
     public RectTransform transitionTwo;
 
@@ -35,32 +35,34 @@ public class TransitionManager : MonoBehaviour
 
     public void StartTransition()
     {
-        transID = Mathf.FloorToInt(Random.Range(1, transNumber));
+        transID = Random.Range(1, transNumber);
         Debug.Log(transID);
         
-        if(transID == 1)
+        if(transID == 2)
         {
             transitionOneCG.blocksRaycasts = true;
             transitionOneCG.DOFade(1f, speedTransition);
         }
 
-        else if(transID == 2)
+        else if(transID == 1)
         {
             transitionTwo.DOMoveX(-1800, 0).SetEase(Ease.InOutSine);
-            transitionTwo.DOMoveX(700, speedTransition).SetEase(Ease.InOutSine);
+            transitionTwo.DOMoveX(750, speedTransition).SetEase(Ease.InOutSine);
         }
     }
 
     public void StopTransition()
     {
-        if (transID == 1)
+        if (transID == 2)
         {
             transitionOneCG.blocksRaycasts = true;
             transitionOneCG.DOFade(0f, speedTransition);
         }
 
-        else if (transID == 2)
+        else if (transID == 1)
         {
+            transitionTwo.DOKill();
+            transitionTwo.DOMoveX(750, 0).SetEase(Ease.InOutSine);
             transitionTwo.DOMoveX(3000, speedTransition).SetEase(Ease.InOutSine);
         }   
     }

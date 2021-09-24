@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: PT_01
   m_EditorClassIdentifier: 
   title: Chez Yvon
-  description: "Vous d\xE9barquez au milieu d\u2019une chaufferie aux murs couvert
+  description: "\tVous d\xE9barquez au milieu d\u2019une chaufferie aux murs couvert
     de tuyauterie finement entrem\xEAl\xE9e. Un homme bedonnant en marcel blanc et
     salopette moulante vous accueille d\u2019un haussement de moustache. Il vous
     pr\xE9sente deux clefs \xE0 molette : une verte et une rouge."

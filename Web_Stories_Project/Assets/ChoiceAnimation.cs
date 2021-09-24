@@ -6,17 +6,17 @@ using DG.Tweening;
 
 public class ChoiceAnimation : MonoBehaviour
 {
-    public Image backgroundImage;
+    public RectTransform rect;
     public Image blackScreenFade;
 
     public void StartChoiceAnimation()
     {
-        backgroundImage.rectTransform.DOScale(1.1f, 0.5f).SetEase(Ease.InOutSine).SetLoops(-1, LoopType.Yoyo);
+        rect.DOScale(1.1f, 0.5f).SetEase(Ease.InOutSine).SetLoops(-1, LoopType.Yoyo);
     }
 
     public void StopChoiceAnimation()
     {
-        backgroundImage.rectTransform.DOKill();
-        backgroundImage.rectTransform.DOScale(1.0f, 0.1f).SetEase(Ease.OutSine);
+        rect.DOKill();
+        rect.DOScale(1.0f, 0.1f).SetEase(Ease.OutSine);
     }
 }

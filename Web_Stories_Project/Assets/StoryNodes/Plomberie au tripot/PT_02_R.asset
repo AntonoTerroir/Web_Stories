@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7f6f5878a616c514ebb3125cb006d591, type: 3}
   m_Name: PT_02_R
   m_EditorClassIdentifier: 
-  sprite: {fileID: 0}
+  sprite: {fileID: 21300000, guid: 2585430212ab9bb44a0f2b48ffaf0e5e, type: 3}
   backgroundColor: {r: 0, g: 0, b: 0, a: 0}
   description: "Appeler discr\xE8tement la police"
   nextStoryNode: {fileID: 11400000, guid: 8cdc7f8316078104487af85d4e60f4a4, type: 2}

@@ -19,6 +19,6 @@ MonoBehaviour:
     \xE9chauffour\xE9e dans le golfe du Mexique pour une histoire de falsification
     de p\xE9digr\xE9. Vous mourrez truff\xE9 de plomb, mais riche, et heureux.\r"
   isConclusion: 1
-  conclusionSprite: {fileID: 0}
+  conclusionSprite: {fileID: 21300000, guid: 78de19d437edcfa40834297e58422470, type: 3}
   choiceLeft: {fileID: 0}
   choiceRight: {fileID: 0}

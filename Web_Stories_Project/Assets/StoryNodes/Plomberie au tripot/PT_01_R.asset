@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7f6f5878a616c514ebb3125cb006d591, type: 3}
   m_Name: PT_01_R
   m_EditorClassIdentifier: 
-  sprite: {fileID: 0}
+  sprite: {fileID: 21300000, guid: 7ccee98776e938f4384dabe275c73bd9, type: 3}
   backgroundColor: {r: 0, g: 0, b: 0, a: 0}
   description: Choisir la rouge
   nextStoryNode: {fileID: 11400000, guid: 77e2a8034a4f22849a7da43da8df2cf8, type: 2}

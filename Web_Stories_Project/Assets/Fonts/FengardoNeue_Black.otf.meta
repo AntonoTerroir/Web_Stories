@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b7e6385e47f600841a907db445af3997
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Fengardo Neue
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9366fd6e3546e5d46a2db3d429717bc5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

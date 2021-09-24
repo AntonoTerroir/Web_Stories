@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: PT_01_A
   m_EditorClassIdentifier: 
   title: La clef verte
-  description: "Vous pointez la clef verte. Yvon le plombier vous regarde avec gravit\xE9,
-    livide. Il vous jette dehors, effray\xE9 par les sombres pr\xE9sages qui vous
-    accompagnent. Il avait raison d\u2019avoir peur pour vous, vous devenez le lendemain
-    la nouvelle \xE9g\xE9rie de T\xE9l\xE9 7 jours."
+  description: "\tVous pointez la clef verte. Yvon le plombier vous regarde avec
+    gravit\xE9, livide. Il vous jette dehors, effray\xE9 par les sombres pr\xE9sages
+    qui vous accompagnent. Il avait raison d\u2019avoir peur pour vous, vous devenez
+    le lendemain la nouvelle \xE9g\xE9rie de T\xE9l\xE9 7 jours."
   isConclusion: 1
-  conclusionSprite: {fileID: 0}
+  conclusionSprite: {fileID: 21300000, guid: 2ce627c276dd94140b1a49ce44a3ee9d, type: 3}
   choiceLeft: {fileID: 0}
   choiceRight: {fileID: 0}

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7f6f5878a616c514ebb3125cb006d591, type: 3}
   m_Name: PT_Intro_L
   m_EditorClassIdentifier: 
-  sprite: {fileID: 0}
+  sprite: {fileID: 21300000, guid: 73a72b07c8b7c6c4f92b609664c9345b, type: 3}
   backgroundColor: {r: 0, g: 0, b: 0, a: 0}
-  description: "Aller \xE0 la l\u2019adresse"
+  description: "Aller \xE0 l\u2019adresse"
   nextStoryNode: {fileID: 11400000, guid: 6013bebfa64372f48b7c5c18a1fe3f1e, type: 2}

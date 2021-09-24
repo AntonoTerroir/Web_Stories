@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7f6f5878a616c514ebb3125cb006d591, type: 3}
   m_Name: PT_02_L
   m_EditorClassIdentifier: 
-  sprite: {fileID: 0}
+  sprite: {fileID: 21300000, guid: ce980c9e46fd799478642558d50af629, type: 3}
   backgroundColor: {r: 0, g: 0, b: 0, a: 0}
   description: "Jouer \xE0 la roulette avec le chihuahua"
   nextStoryNode: {fileID: 11400000, guid: 5495f96a50d03d24e8f2229ca98c43b1, type: 2}

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: PT_Intro
   m_EditorClassIdentifier: 
   title: Plomberie au tripot
-  description: "Alors que vous sirotez tranquillement un diabolo banane en terrasse,
+  description: "\tAlors que vous sirotez tranquillement un diabolo banane en terrasse,
     vous \xEAtes accost\xE9 par un rottweiler au poils fatigu\xE9s qui d\xE9pose
     une carte de visite \xE0 vos pieds en ouvrant doucement la gueule. Vous y lisez
     : \"Yvon - Voyance et Plomberie - 7 rue des Lilas\"."

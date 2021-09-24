@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
@@ -51,6 +52,7 @@ public class GameManager : MonoBehaviour
     {
         transitionManager = TransitionManager.sharedInstance;
 
+        transitionManager.StopTransition();
 
         if (firstStoryNode == null)
         {
@@ -114,9 +116,32 @@ public class GameManager : MonoBehaviour
 
     public void MakeChoiceRight()
     {
-        //Transition
+        StartCoroutine(ChoiceRightStructure());
+    }
+
+    private IEnumerator ChoiceRightStructure()
+    {
+        transitionManager.StartTransition();
+        yield return new WaitForSeconds(transitionManager.speedTransition);
         nextStoryNode = currentStoryNode.choiceRight.nextStoryNode;
-        //Fin de transition
         DisplayStoryNode(nextStoryNode);
+        transitionManager.StopTransition();
+    }
+
+    public void MenuButton()
+    {
+        Debug.Log("Ah oui le menu merde");
+    }
+
+    public void ReplayButton()
+    {
+        StartCoroutine(ReplayStructure());
+    }
+
+    private IEnumerator ReplayStructure()
+    {
+        transitionManager.StartTransition();
+        yield return new WaitForSeconds(transitionManager.speedTransition);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 }

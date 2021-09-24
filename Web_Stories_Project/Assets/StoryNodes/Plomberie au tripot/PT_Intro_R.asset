@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7f6f5878a616c514ebb3125cb006d591, type: 3}
   m_Name: PT_Intro_R
   m_EditorClassIdentifier: 
-  sprite: {fileID: 0}
+  sprite: {fileID: 21300000, guid: 983bdd323086fa5478aa0e7d37a8a5c4, type: 3}
   backgroundColor: {r: 0, g: 0, b: 0, a: 0}
   description: Proposer un verre au Rottweiler
   nextStoryNode: {fileID: 11400000, guid: 877382b38436b3d4393c4fe906f5936e, type: 2}

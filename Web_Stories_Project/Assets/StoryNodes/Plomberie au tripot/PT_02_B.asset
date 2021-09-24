@@ -16,6 +16,6 @@ MonoBehaviour:
   description: "La police arrive et vous traite de grosse poucave. Le rottweiler
     a l\u2019air tr\xE8s d\xE9\xE7u."
   isConclusion: 1
-  conclusionSprite: {fileID: 0}
+  conclusionSprite: {fileID: 21300000, guid: 4b9a8b23bb20ab44fb89168b555941cf, type: 3}
   choiceLeft: {fileID: 0}
   choiceRight: {fileID: 0}
