@@ -30,9 +30,29 @@ public class GameManager : MonoBehaviour
 
     public Image conclusionImage;
 
+    public TransitionManager transitionManager;
+
+    private static GameManager instance = null;
+    public static GameManager sharedInstance
+    {
+
+        //Accesseur automatique
+        get
+        {
+            if (instance == null)
+            {
+                instance = GameObject.FindObjectOfType<GameManager>();
+            }
+            return instance;
+        }
+    }
+
     private void Start()
     {
-        if(firstStoryNode == null)
+        transitionManager = TransitionManager.sharedInstance;
+
+
+        if (firstStoryNode == null)
         {
             return;
         }
@@ -80,10 +100,16 @@ public class GameManager : MonoBehaviour
 
     public void MakeChoiceLeft()
     {
-        //Transition
+        StartCoroutine(ChoiceLeftStructure());
+    }
+
+    private IEnumerator ChoiceLeftStructure()
+    {
+        transitionManager.StartTransition();
+        yield return new WaitForSeconds(transitionManager.speedTransition);
         nextStoryNode = currentStoryNode.choiceLeft.nextStoryNode;
-        //Fin de transition
         DisplayStoryNode(nextStoryNode);
+        transitionManager.StopTransition();
     }
 
     public void MakeChoiceRight()

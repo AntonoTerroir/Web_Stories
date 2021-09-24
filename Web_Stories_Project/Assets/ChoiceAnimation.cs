@@ -11,11 +11,12 @@ public class ChoiceAnimation : MonoBehaviour
 
     public void StartChoiceAnimation()
     {
-        backgroundImage.rectTransform.DOScale(1.1f, 0.5f).SetLoops(-1, LoopType.Yoyo);
+        backgroundImage.rectTransform.DOScale(1.1f, 0.5f).SetEase(Ease.InOutSine).SetLoops(-1, LoopType.Yoyo);
     }
 
     public void StopChoiceAnimation()
     {
-
+        backgroundImage.rectTransform.DOKill();
+        backgroundImage.rectTransform.DOScale(1.0f, 0.1f).SetEase(Ease.OutSine);
     }
 }
