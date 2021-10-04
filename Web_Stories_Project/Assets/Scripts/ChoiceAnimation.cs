@@ -7,11 +7,20 @@ using DG.Tweening;
 public class ChoiceAnimation : MonoBehaviour
 {
     public RectTransform rect;
-    public Image blackScreenFade;
+    public bool loop = true;
+    public float strength = 1.1f;
+    public float speed = 0.5f;
 
     public void StartChoiceAnimation()
     {
-        rect.DOScale(1.1f, 0.5f).SetEase(Ease.InOutSine).SetLoops(-1, LoopType.Yoyo);
+        if (loop)
+        {
+            rect.DOScale(strength, speed).SetEase(Ease.InOutSine).SetLoops(-1, LoopType.Yoyo);
+        }
+        else
+        {
+            rect.DOScale(strength, speed).SetEase(Ease.InSine).SetEase(Ease.OutBack);
+        }
     }
 
     public void StopChoiceAnimation()

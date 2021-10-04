@@ -5,26 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-<<<<<<< HEAD
-      ticks: 637681518251807945
-    m_Hash: 360552680
-=======
-      ticks: 637689531173830111
-    m_Hash: 3555804985
->>>>>>> Menu
+      ticks: 637689662971948205
+    m_Hash: 4286857089
   m_LockFileStatus:
     m_FilePath: D:/Travail/2021-2022_ENJMIN2/Web_Stories/Web_Stories/Web_Stories_Project/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-<<<<<<< HEAD
-      ticks: 637681518251807945
-    m_Hash: 3035359836
-=======
-      ticks: 637689531173899925
-    m_Hash: 93428220
->>>>>>> Menu
+      ticks: 637689662971948205
+    m_Hash: 1142542513
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -607,7 +597,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.3
       source: 1
-      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.localization@1.0.3
+      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.localization@1.0.3
       assetPath: Packages/com.unity.localization
       name: com.unity.localization
       displayName: Localization
@@ -3136,12 +3126,10 @@ m_PackageAssets:
         all:
         - 1.1.0
         - 1.2.1
-        - 1.2.4
         compatible:
         - 1.1.0
         - 1.2.1
-        - 1.2.4
-        verified: 1.2.4
+        verified: 1.2.1
       dependencies: []
       resolvedDependencies: []
       keywords:
@@ -3468,7 +3456,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.19.4
       source: 1
-      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.addressables@1.19.4
+      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.addressables@1.19.4
       assetPath: Packages/com.unity.addressables
       name: com.unity.addressables
       displayName: Addressables
@@ -3717,7 +3705,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 2.0.0
       source: 1
-      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0
+      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0
       assetPath: Packages/com.unity.nuget.newtonsoft-json
       name: com.unity.nuget.newtonsoft-json
       displayName: Newtonsoft Json
@@ -3849,7 +3837,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.19.2
       source: 1
-      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.scriptablebuildpipeline@1.19.2
+      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.scriptablebuildpipeline@1.19.2
       assetPath: Packages/com.unity.scriptablebuildpipeline
       name: com.unity.scriptablebuildpipeline
       displayName: Scriptable Build Pipeline
