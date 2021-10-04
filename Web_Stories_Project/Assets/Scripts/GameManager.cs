@@ -50,8 +50,7 @@ public class GameManager : MonoBehaviour
 
     private void Start()
     {
-        transitionManager = TransitionManager.sharedInstance;
-
+        transitionManager.gameObject.SetActive(true);
         transitionManager.StopTransition();
 
         if (firstStoryNode == null)
