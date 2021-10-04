@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Text_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 16996cf142e18fc47be1e26cc24094f9, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 10510520320
+    m_Localized: DES HISTOIRES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55200829440
+    m_Localized: Jouer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27033895292928
+    m_Localized: "\xA9 mes fesses - Antonin Terrien - 2021"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29251155382272
+    m_Localized: Un projet d'histoires rigolotes par des copaines sympatoches
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29732527263744
+    m_Localized: "dont :\nAntoine Ramo\nMaelys Schoepfer\nL\xE9o Laffargue\nGazoil"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29862064148480
+    m_Localized: typo "friendly scribbles"  faite par @kmlgames
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
