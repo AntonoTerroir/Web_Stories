@@ -9,6 +9,14 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
+<<<<<<< HEAD
     path: Assets/Scenes/Plomberie_Au_Tripot.unity
     guid: 05b0243645700f747a73a3671beb6aa1
   m_configObjects: {}
+=======
+    path: Assets/Scenes/MainMenu.unity
+    guid: fbd724944cf8d624aa600bd54eb625e4
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 05e35618fe9bcdf4aa1f6de69c19d6d7, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: 964ec236b8da4ca47a7485c1c8be2896, type: 2}
+>>>>>>> Menu
