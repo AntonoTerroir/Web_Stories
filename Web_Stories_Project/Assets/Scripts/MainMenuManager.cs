@@ -38,7 +38,7 @@ public class MainMenuManager : MonoBehaviour
     {
         credits.DOMoveX(1200, transitionSpeed).SetEase(Ease.InSine).SetRelative(true);
         StartCoroutine(DeactivateCredits());
-        credits.DOMoveX(-1200, 0f).SetRelative(true).SetDelay(transitionSpeed);
+        credits.DOMoveX(-1200, 0f).SetRelative(true).SetDelay(transitionSpeed + 0.1f);
     }
 
     private IEnumerator DeactivateCredits()
@@ -51,7 +51,7 @@ public class MainMenuManager : MonoBehaviour
     {
         stories.DOMoveY(-900, transitionSpeed).SetEase(Ease.InSine).SetRelative(true);
         StartCoroutine(DeactivateStories());
-        stories.DOMoveY(900, 0f).SetRelative(true).SetDelay(transitionSpeed);
+        stories.DOMoveY(900, 0f).SetRelative(true).SetDelay(transitionSpeed + 0.1f);
     }
 
     private IEnumerator DeactivateStories()

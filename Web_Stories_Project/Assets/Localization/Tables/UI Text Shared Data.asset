@@ -39,6 +39,14 @@ MonoBehaviour:
     m_Key: Credits_Fonts
     m_Metadata:
       m_Items: []
+  - m_Id: 274623274536960
+    m_Key: Plomberie_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 341422573735936
+    m_Key: Felin_Title
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

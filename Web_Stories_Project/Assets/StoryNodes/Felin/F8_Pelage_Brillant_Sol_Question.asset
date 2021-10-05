@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 055b5a0455546af479f97e80a33cc343, type: 3}
+  m_Name: F8_Pelage_Brillant_Sol_Question
+  m_EditorClassIdentifier: 
+  title: 
+  description: "\tProfitant d'un r\xE9pit entre deux ennemis, votre colocataire vous
+    demande, sans quitter la t\xE9l\xE9vision des yeux :\r\n- Est-ce que tu as remarqu\xE9
+    comme le pelage de Camarel Mou est brillant en ce moment ?\r"
+  isConclusion: 0
+  conclusionSprite: {fileID: 0}
+  hasOneChoice: 1
+  choiceLeft: {fileID: 11400000, guid: e02f4c22c41a80d41977a41891fcbeba, type: 2}
+  choiceRight: {fileID: 0}

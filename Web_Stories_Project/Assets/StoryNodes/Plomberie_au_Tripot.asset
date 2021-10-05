@@ -12,7 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3c3cec87d1ac74941a0c6995504a7c8d, type: 3}
   m_Name: Plomberie_au_Tripot
   m_EditorClassIdentifier: 
-  title: Plomberie au tripot
   creator: Antono
   icon: {fileID: 21300000, guid: 217eabf1d7e233d4cb67efabab8f0752, type: 3}
+  titleLocal:
+    m_TableReference:
+      m_TableCollectionName: GUID:16996cf142e18fc47be1e26cc24094f9
+    m_TableEntryReference:
+      m_KeyId: 274623274536960
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 1
+    m_LocalVariables: []
   sceneID: 1
+  references:
+    version: 1

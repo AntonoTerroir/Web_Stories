@@ -42,5 +42,13 @@ MonoBehaviour:
     m_Localized: typo "friendly scribbles"  faite par @kmlgames
     m_Metadata:
       m_Items: []
+  - m_Id: 274623274536960
+    m_Localized: ...Plomberie au tripot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 341422573735936
+    m_Localized: "...F\xE9lin 8 soupapes"
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

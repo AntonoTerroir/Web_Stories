@@ -17,6 +17,10 @@ public class GameManager : MonoBehaviour
     public Color choiceLeftColor;
     public Button choiceLeftButton;
 
+    public TextMeshProUGUI choiceCenterDescriptionText;
+    public Image choiceCenterImage;
+    public Color choiceCenterColor;
+    public Button choiceCenterButton;
 
     public TextMeshProUGUI choiceRightDescriptionText;
     public Image choiceRightImage;
@@ -28,6 +32,9 @@ public class GameManager : MonoBehaviour
 
     public GameObject conclusionUI;
     public GameObject choicesUI;
+    public GameObject choiceL;
+    public GameObject choiceR;
+    public GameObject choiceC;
 
     public Image conclusionImage;
 
@@ -51,7 +58,8 @@ public class GameManager : MonoBehaviour
     private void Start()
     {
         transitionManager.gameObject.SetActive(true);
-        transitionManager.StopTransition();
+        
+        FadeToBlack.sharedInstance.FadeIn();
 
         if (firstStoryNode == null)
         {
@@ -81,12 +89,23 @@ public class GameManager : MonoBehaviour
             return;
         }
 
+        if (node.hasOneChoice)
+        {
+            DisplayChoiceNodeCenter(node.choiceLeft);
+            
+            return;
+        }
+
         DisplayChoiceNodeLeft(node.choiceLeft);
         DisplayChoiceNodeRight(node.choiceRight);
     }
 
     public void DisplayChoiceNodeLeft(ChoiceNode node)
     {
+        choiceC.SetActive(false);
+        choiceL.SetActive(true);
+        choiceR.SetActive(true);
+
         choiceLeftDescriptionText.text = node.description;
         choiceLeftImage.sprite = node.sprite;
         choiceLeftColor = node.backgroundColor;
@@ -94,9 +113,24 @@ public class GameManager : MonoBehaviour
 
     public void DisplayChoiceNodeRight(ChoiceNode node)
     {
+        choiceC.SetActive(false);
+        choiceL.SetActive(true);
+        choiceR.SetActive(true);
+
         choiceRightDescriptionText.text = node.description;
         choiceRightImage.sprite = node.sprite;
         choiceRightColor = node.backgroundColor;
+    }
+
+    public void DisplayChoiceNodeCenter(ChoiceNode node)
+    {
+        choiceC.SetActive(true);
+        choiceL.SetActive(false);
+        choiceR.SetActive(false);
+
+        choiceCenterDescriptionText.text = node.description;
+        choiceCenterImage.sprite = node.sprite;
+        choiceCenterColor = node.backgroundColor;
     }
 
     public void MakeChoiceLeft()
@@ -129,7 +163,7 @@ public class GameManager : MonoBehaviour
 
     public void MenuButton()
     {
-        Debug.Log("Ah oui le menu merde");
+        StartCoroutine(MenuStructure());
     }
 
     public void ReplayButton()
@@ -142,5 +176,11 @@ public class GameManager : MonoBehaviour
         transitionManager.StartTransition();
         yield return new WaitForSeconds(transitionManager.speedTransition);
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+    }
+    private IEnumerator MenuStructure()
+    {
+        FadeToBlack.sharedInstance.FadeOut();
+        yield return new WaitForSeconds(FadeToBlack.sharedInstance.speed + 0.1f);
+        SceneManager.LoadScene(0);
     }
 }

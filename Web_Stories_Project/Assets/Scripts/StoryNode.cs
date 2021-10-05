@@ -12,6 +12,8 @@ public class StoryNode : ScriptableObject
     public bool isConclusion = false;
     public Sprite conclusionSprite;
 
+    public bool hasOneChoice = false;
+
     public ChoiceNode choiceLeft;
     public ChoiceNode choiceRight;
 }

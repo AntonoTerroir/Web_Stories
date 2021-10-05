@@ -295,6 +295,7 @@ GameObject:
   - component: {fileID: 3364569459529718809}
   - component: {fileID: 3364569459529718811}
   - component: {fileID: 3364569459529718810}
+  - component: {fileID: 7550047476174402378}
   m_Layer: 5
   m_Name: Title
   m_TagString: Untagged
@@ -418,6 +419,45 @@ MonoBehaviour:
   m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!114 &7550047476174402378
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3364569459529718808}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56eb0353ae6e5124bb35b17aff880f16, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_StringReference:
+    m_TableReference:
+      m_TableCollectionName: 
+    m_TableEntryReference:
+      m_KeyId: 0
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  m_FormatArguments: []
+  m_UpdateString:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 3364569459529718810}
+        m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro
+        m_MethodName: set_text
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  references:
+    version: 1
 --- !u!1 &3364569459691622834
 GameObject:
   m_ObjectHideFlags: 0
@@ -676,7 +716,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 3364569459698421757}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 738884288611773331}
+        m_TargetAssemblyTypeName: StoryUIReference, Assembly-CSharp
+        m_MethodName: LaunchStoryScene
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &77094967304195973
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -748,6 +800,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3364569459915080309}
   - component: {fileID: 3364569459915080310}
+  - component: {fileID: 738884288611773331}
   m_Layer: 5
   m_Name: StoryUI
   m_TagString: Untagged
@@ -785,3 +838,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3364569459915080308}
   m_CullTransparentMesh: 1
+--- !u!114 &738884288611773331
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3364569459915080308}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 457b2054e8a9f50468fc71e0c5c0eae9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  titleLocalEvent: {fileID: 7550047476174402378}
+  creatorText: {fileID: 3364569458266017534}
+  storyNumberText: {fileID: 3364569459691622836}
+  iconImage: {fileID: 3364569458025791584}
+  sceneIndex: 1
