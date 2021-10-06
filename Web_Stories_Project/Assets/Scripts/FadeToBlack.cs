@@ -7,6 +7,7 @@ public class FadeToBlack : MonoBehaviour
 {
     private CanvasGroup canvasGroup;
     public float speed = 2f;
+    public float startDelay = 0.5f;
     // Start is called before the first frame update
 
     private static FadeToBlack instance = null;
@@ -28,7 +29,7 @@ public class FadeToBlack : MonoBehaviour
     {
         canvasGroup = GetComponent<CanvasGroup>();
         canvasGroup.alpha = 1f;
-        FadeIn(0.5f);
+        FadeIn(startDelay);
     }
 
     public void FadeIn(float delay = 0f)

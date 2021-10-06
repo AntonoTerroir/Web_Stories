@@ -36,7 +36,6 @@ public class TransitionManager : MonoBehaviour
     public void StartTransition()
     {
         transID = Random.Range(1, transNumber);
-        Debug.Log(transID);
         
         if(transID == 2)
         {

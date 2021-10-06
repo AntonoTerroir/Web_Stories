@@ -1,0 +1,134 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Felin_8_Soupapes_Story_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 8a23f91b8611cd24cafdd57015777bbf, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 9076068352
+    m_Localized: "\tAssis sur votre canap\xE9, un caf\xE9 \xE0 la main, vous regardez
+      distraitement votre colocataire jouer \xE0 la console. Alors qu'il relance
+      le niveau sur lequel il bloque, votre chat vient se frotter \xE0 vos pieds
+      en miaulant."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 186671288320
+    m_Localized: "\tTr\xE8s content de voir \"Caramel Mou\" vous t\xE9moigner un
+      peu d'affection, vous lui faites des gratouilles d'une main et l'invitez sur
+      le canap\xE9. Celui-ci grimpe et s'installe en boule contre vous."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 513164300288
+    m_Localized: "\t- Non Caramel Mou, ce n'est pas encore l'heure de manger, tu
+      as d\xE9j\xE0 eu tout \xE0 l'heure. Et il te reste\r encore des croquettes.\r
+      Caramel Mou vous toise d'un air \xE0 la fois hautain et contrari\xE9. Il finit
+      par s'installer sur le parquet, \xE0\r quelques pas de vous."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1006779355136
+    m_Localized: "\tProfitant d'un r\xE9pit entre deux ennemis, votre colocataire
+      vous demande, sans quitter la t\xE9l\xE9vision\r des yeux :\r\n- Est-ce que
+      tu as remarqu\xE9 comme le pelage de Caramel Mou est brillant en ce moment
+      ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1414306320384
+    m_Localized: "\tVous observez Caramel Mou. Il est en train de faire sa toilette.
+      Vous\r ne remarquez rien d'anormal. Apr\xE8s tout, il a toujours eu le poil
+      brillant."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2563876966400
+    m_Localized: "- Hum je ne sais pas trop, il a toujours eu le poil brillant.\r\n-
+      N'importe quoi...c'est depuis que tu lui donnes les croquettes allemandes...
+      articule p\xE9niblement\r votre colocataire qui pratique maintenant ses combos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3013829316608
+    m_Localized: "\tVous baissez les yeux pour observer votre matou, et constatez
+      que la teinte de son pelage para\xEEt en\r effet bien peu naturelle. Bizarre.
+      Et si c'\xE9tait la faute de ses nouvelles croquettes import\xE9es\r d'Allemagne
+      ?\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3588264415232
+    m_Localized: "\tVous vous levez et saisissez le paquet de croquettes allemandes.
+      Il est \xE9crit \"Gourmet - Katzenfutter,\r so gut wie es aussieht\" sur la
+      face avant du paquet. Rien d'anormal."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3744787451904
+    m_Localized: "\tIl est \xE9crit sur le dos du paquet en tout petit : \"Nebenwirkungen:
+      Verdauungsprobleme, Durchfall,\r Hyperaktivit\xE4t, Verwandlung in einen Twingo.\"
+      Vous traduisez avec vos restes de LV2 Allemand :\r \"Effets secondaires : troubles
+      de la digestion, hyperactivit\xE9, transformation en twingo\".\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4375124234240
+    m_Localized: "\tVous buvez une gorg\xE9e de caf\xE9, mais trouvez l'amertume
+      trop pr\xE9sente. Vous d\xE9cidez d'aller\r chercher du lait dans le frigo.
+      En vous levant, vous remarquez une cl\xE9 log\xE9e dans une rainure de\r parquet.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4573833580544
+    m_Localized: "\tVous ramassez la cl\xE9, dont la forme en losange vous rappelle
+      quelque chose... mais quoi ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4897885507584
+    m_Localized: "\tAlors que vous alliez vous enqu\xE9rir de l'\xE9tat de Caramel
+      Mou, vous remarquez une sorte de marque\r entre ses oreilles.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5144619634688
+    m_Localized: "\tVous \xE9cartez les poils de Caramel Mou pour d\xE9couvrir une
+      dr\xF4le de marque en forme de losange\r imprim\xE9 sur sa peau. Alors que
+      vous retirez vos mains, votre f\xE9lin se raidit et ses yeux se mettent \xE0\r
+      clignoter r\xE9guli\xE8rement en \xE9mettant des faisceaux lumineux oranges.
+      Bi-za-rre."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5451294560256
+    m_Localized: "Entre les croquettes aux effets secondaires, l'\xE9trange cl\xE9
+      et la marque en losange sur ses oreilles,\r vous devez vous rendre \xE0 l'\xE9vidence
+      : Caramel Mou se transforme lentement en Renault Twingo I\r (1996). Que faire
+      ?\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5716512985088
+    m_Localized: "\t- Comment tu r\xE9agirais si je te disais que Caramel Mou \xE9tait
+      en train de se transformer en Twingo ?\r\n- Comme la voiture ? Bah il p\xE8se
+      d\xE9j\xE0 m\xE9ga-lourd, il fait du bruit et il faut le laver de temps en
+      temps, alors je vois pas trop la diff\xE9renc, r\xE9pond votre andouille de
+      colocataire. Au pire tu le mettras dans le garage."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6577515515904
+    m_Localized: "\tAlors que vous d\xE9posez la cl\xE9 sur la langue de Caramel
+      Mou, un petit bruit de commande\r centralis\xE9e sort de sa gorge : \"Twing
+      Twing\". Une gratouille derri\xE8re l'oreille et votre matou se met \xE0\r
+      ronronner de mani\xE8re inhabituelle."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6746449498112
+    m_Localized: "Vous n'\xEAtes pas m\xE9canicien mais savez reconna\xEEtre un moteur
+      Sierra quand vous en entendez un.\r Vous ouvrez la porte conducteur de votre
+      Caramel Moutoris\xE9, vous asseyez sur le fauteuil poilu et\r passez la premi\xE8re.\n\nVous
+      voil\xE0 parti pour un fantastique road-trip des patelins Fran\xE7ais.\r"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

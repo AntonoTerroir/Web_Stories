@@ -47,6 +47,10 @@ MonoBehaviour:
     m_Key: Felin_Title
     m_Metadata:
       m_Items: []
+  - m_Id: 633901986467840
+    m_Key: New Entry
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

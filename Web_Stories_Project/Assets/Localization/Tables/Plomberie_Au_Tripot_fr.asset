@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Plomberie_Au_Tripot_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 86ad89cb04013714ca61503f410df658, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 7306072064
+    m_Localized: PLOMBERIE AU TRIPOT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 282653741056
+    m_Localized: "\tAlors que vous sirotez tranquillement un diabolo banane en terrasse,
+      vous \xEAtes accost\xE9 par un rottweiler au poils fatigu\xE9s qui d\xE9pose
+      une carte de visite \xE0 vos pieds en ouvrant doucement la gueule. Vous y lisez
+      : \"Yvon - Voyance et Plomberie - 7 rue des Lilas\"."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1362519248896
+    m_Localized: "\tVous d\xE9barquez au milieu d\u2019une chaufferie aux murs couvert
+      de tuyauterie finement entrem\xEAl\xE9e. Un homme bedonnant en marcel blanc
+      et salopette moulante vous accueille d\u2019un haussement de moustache. Il
+      vous pr\xE9sente deux clefs \xE0 molette : une verte et une rouge."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1863990235136
+    m_Localized: "\tApr\xE8s quelques martinis on the rocks, le rottweiler semble
+      s\u2019acclimater \xE0 votre pr\xE9sence. Quand soudain le chien lance un hurlement
+      guttural. De tous les coins du boulevard d\xE9boulent des canid\xE9s en tout
+      genre, l\xE2chant tour \xE0 tour cartes, d\xE9s et jetons sur votre table.
+      Deux bergers allemands gardent solennellement la terrasse, alors qu\u2019un
+      chihuahua pousse devant vous une liasse de billets. Vous venez d\u2019\xEAtre
+      invit\xE9 \xE0 rejoindre le tripot ambulant des chiens de goutti\xE8re."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2390752874496
+    m_Localized: "\tVous pointez la clef verte. Yvon le plombier vous regarde avec
+      gravit\xE9, livide. Il vous jette dehors, effray\xE9 par les sombres pr\xE9sages
+      qui vous accompagnent. Il avait raison d\u2019avoir peur pour vous, vous devenez
+      le lendemain la nouvelle \xE9g\xE9rie de T\xE9l\xE9 7 jours."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3079952519168
+    m_Localized: "\tYvon vous prend chaleureusement dans ses bras d\xE8s que vous
+      pointez la clef rouge. Il vous promet un avenir radieux et bucolique. Vous
+      finissez par vous installer ensemble dans le Larzac, o\xF9 vous \xE9levez une
+      demi-douzaine de ch\xE8vres."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16053647822848
+    m_Localized: "\tMalgr\xE9 quelques paris risqu\xE9s, vos gains sont titanesques.
+      Vous gagnez la confiance des chiens. Apr\xE8s quatre ans de bons et loyaux
+      services comme homme de main pour le tripot canin, vous voil\xE0 pris au milieu
+      d\u2019une \xE9chauffour\xE9e dans le golfe du Mexique pour une histoire de
+      falsification de p\xE9digr\xE9. Vous mourrez truff\xE9 de plomb, mais riche,
+      et heureux.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16122027560960
+    m_Localized: "\tLa police arrive et vous traite de grosse poucave. Le rottweiler
+      a l\u2019air tr\xE8s d\xE9\xE7u."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

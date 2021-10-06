@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 055b5a0455546af479f97e80a33cc343, type: 3}
+  m_Name: F8_Intro
+  m_EditorClassIdentifier: 
+  title: "F\xE9lin 8 soupapes"
+  description: "\tAssis sur votre canap\xE9, un caf\xE9 \xE0 la main, vous regardez
+    distraitement votre colocataire jouer \xE0 la console. Alors qu'il relance le
+    niveau sur lequel il bloque, votre chat vient se frotter \xE0 vos pieds en miaulant."
+  descriptionLocal:
+    m_TableReference:
+      m_TableCollectionName: GUID:8a23f91b8611cd24cafdd57015777bbf
+    m_TableEntryReference:
+      m_KeyId: 9076068352
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  isConclusion: 0
+  conclusionSprite: {fileID: 0}
+  hasOneChoice: 0
+  choiceLeft: {fileID: 11400000, guid: 3fa9905795eac7946978b9a989d38d17, type: 2}
+  choiceRight: {fileID: 11400000, guid: 83060b48625b68d428185b48f8d2d7b6, type: 2}
+  references:
+    version: 1

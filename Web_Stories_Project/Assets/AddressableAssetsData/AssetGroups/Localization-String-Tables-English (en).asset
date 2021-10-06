@@ -22,6 +22,31 @@ MonoBehaviour:
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-en
+  - m_GUID: 6d51950a984b4f94eb4311b338e865d8
+    m_Address: Plomberie_Au_Tripot_Story_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: c07e352f636420845ac0afb245646d4d
+    m_Address: Plomberie_Au_Tripot_Choices_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: ef9bbf58357fa1a4d88ad18564da8813
+    m_Address: Story_UI_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 50d595a7ee064c24597148effa214a25
+    m_Address: Felin_8_Soupapes_Story_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 36032c44323d45a4dbdc0c739b6b594b
+    m_Address: Felin_8_Soupapes_Choices_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 0f24e7e21121cba49b979279f252863f, type: 2}
   m_SchemaSet:

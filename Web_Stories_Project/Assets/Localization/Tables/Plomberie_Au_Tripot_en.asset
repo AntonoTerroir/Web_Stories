@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Plomberie_Au_Tripot_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 86ad89cb04013714ca61503f410df658, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 7306072064
+    m_Localized: PLUMBING AT THE GAMBLING DEN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 282653741056
+    m_Localized: "\tWhile you are quietly sipping a banana spritz at a caf\xE9 terrace,
+      you are accosted by a rottweiler with dirty hair who drops a business card
+      at your feet, gently opening his mouth. You read: \"Yvon - Fortune-telling
+      and Plumbing - 7 Lilacs Street\"."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1362519248896
+    m_Localized: "\tYou arrive in the middle of a boiler room, the walls covered
+      with finely intertwined pipes. A paunchy man in a white tank top and tight-fitting
+      overalls greets you with a shrug of his moustache. He shows you two wrenches:
+      one green and one red."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1863990235136
+    m_Localized: "\tAfter a few martinis on the rocks, the rottweiler seems to acclimatize
+      to your presence. Suddenly the dog lets out a guttural howl. From every corner
+      of the boulevard, all kinds of canines come out, dropping cards, dice and chips
+      on your table. Two German shepherds solemnly guard the terrace, while a Chihuahua
+      pushes a wad of cash in front of you. You have just been invited to join the
+      street dog gambling scene."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2390752874496
+    m_Localized: "\tYou choose the green wrench. Yvon the plumber looks at you with
+      gravity, livid. He throws you out, frightened by the dark omens that accompany
+      you. He was right to be afraid for you, the next day you become the new host
+      of Fox News."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3079952519168
+    m_Localized: "\tYvon warmly hugs  you as soon as you point the red wrench. He
+      promises you a bright and bucolic future. You end up settling together in the
+      countryside, where you raise half a dozen goats."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16122027560960
+    m_Localized: "\tThe cops show up and call you a big snitch. The rottweiler looks
+      really disappointed."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16053647822848
+    m_Localized: "\tDespite some risky bets, your winnings are huge. You gain the
+      trust of the dogs. After four years of loyal service as a handyman for the
+      dog gang, you are caught in the middle of a scuffle in the Gulf of Mexico for
+      a falsified pedigree. You die quickly, but rich, and happy.\r"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

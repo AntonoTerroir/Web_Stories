@@ -18,7 +18,19 @@ MonoBehaviour:
     comme homme de main pour le tripot canin, vous voil\xE0 pris au milieu d\u2019une
     \xE9chauffour\xE9e dans le golfe du Mexique pour une histoire de falsification
     de p\xE9digr\xE9. Vous mourrez truff\xE9 de plomb, mais riche, et heureux.\r"
+  descriptionLocal:
+    m_TableReference:
+      m_TableCollectionName: GUID:86ad89cb04013714ca61503f410df658
+    m_TableEntryReference:
+      m_KeyId: 16053647822848
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
   isConclusion: 1
   conclusionSprite: {fileID: 21300000, guid: 78de19d437edcfa40834297e58422470, type: 3}
+  hasOneChoice: 0
   choiceLeft: {fileID: 0}
   choiceRight: {fileID: 0}
+  references:
+    version: 1

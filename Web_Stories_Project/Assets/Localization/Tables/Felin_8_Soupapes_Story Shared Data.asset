@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Felin_8_Soupapes_Story Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Felin_8_Soupapes_Story
+  m_TableCollectionNameGuidString: 8a23f91b8611cd24cafdd57015777bbf
+  m_Entries:
+  - m_Id: 9076068352
+    m_Key: F8_Intro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 186671288320
+    m_Key: F8_Chat_Canape
+    m_Metadata:
+      m_Items: []
+  - m_Id: 513164300288
+    m_Key: F8_Chat_Sol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1006779355136
+    m_Key: F8_Pelage_Brilliant_Question
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1414306320384
+    m_Key: F8_Pelage_Brilliant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2563876966400
+    m_Key: F8_Conseil_Coloc_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3013829316608
+    m_Key: F8_Pelage_Bizarre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3588264415232
+    m_Key: F8_Paquet_Croquettes_Avant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3744787451904
+    m_Key: F8_Paquet_Croquettes_Arriere
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4375124234240
+    m_Key: F8_Cafe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4573833580544
+    m_Key: F8_Clef
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4897885507584
+    m_Key: F8_Marque_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5144619634688
+    m_Key: F8_Marque_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5451294560256
+    m_Key: F8_Decouverte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5716512985088
+    m_Key: F8_Conseil_Coloc_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6577515515904
+    m_Key: F8_Allumage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6746449498112
+    m_Key: F8_Fin
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1633534397593

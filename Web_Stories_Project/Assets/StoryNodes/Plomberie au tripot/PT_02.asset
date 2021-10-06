@@ -21,7 +21,19 @@ MonoBehaviour:
     allemands gardent solennellement la terrasse, alors qu\u2019un chihuahua pousse
     devant vous une liasse de billets. Vous venez d\u2019\xEAtre invit\xE9 \xE0 rejoindre
     le tripot ambulant des chiens de goutti\xE8re."
+  descriptionLocal:
+    m_TableReference:
+      m_TableCollectionName: GUID:86ad89cb04013714ca61503f410df658
+    m_TableEntryReference:
+      m_KeyId: 1863990235136
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
   isConclusion: 0
   conclusionSprite: {fileID: 0}
+  hasOneChoice: 0
   choiceLeft: {fileID: 11400000, guid: bd90162a367aae0429429ceb1a5bfca7, type: 2}
   choiceRight: {fileID: 11400000, guid: 841b85ac9115e3043b791b8d9f51094e, type: 2}
+  references:
+    version: 1

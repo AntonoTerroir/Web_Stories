@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Felin_8_Soupapes_Story_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 8a23f91b8611cd24cafdd57015777bbf, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 9076068352
+    m_Localized: "\tSitting on your couch, coffee in hand, you absentmindedly watch
+      your roommate play the console.\r As he restarts a level he's stuck on, your
+      cat comes and rubs against your feet, meowing. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 186671288320
+    m_Localized: "\tVery happy to see \"Caramel Mou\" displaying some affection,
+      you scratch him with one hand and\r invite him on the sofa. He climbs and curles
+      up against you.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 513164300288
+    m_Localized: "\t- No Caramel Mou, it's not meal time yet. Besides, you still
+      have some kibble left. Caramel Mou\r looks at you with his annoyed face. He
+      eventually settles down on the floor, a few steps from you."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1006779355136
+    m_Localized: "\tHis game pace slowing down a bit, your roommate asks you : -
+      Have you noticed how bright\r Camarel Mou's coat is right now?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1414306320384
+    m_Localized: "\tYou observe Caramel Mou. He is washing himselfr. You don't notice\r
+      anything unusual. After all, he has always had a shiny coat."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2563876966400
+    m_Localized: "- I don't know, he's always had a shiny coat.\n- Bullshit...it
+      has been like this since started feeding\r him those German kibble... mumbles
+      your roommate, now practicing his combos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3013829316608
+    m_Localized: "\tYou start observing your cat, and notice that the color of his
+      coat looks very unnatural indeed.\r Weird. Maybe it is his new german kibble
+      ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3588264415232
+    m_Localized: "\tYou get up to grab the package of German kibble. It says \"Gourmet
+      - Katzenfutter, so gut wie es\r aussieht\" on the front of the package. Nothing
+      unusual."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3744787451904
+    m_Localized: "\tIt says on the back of the package in very small print: \"Nebenwirkungen:
+      Verdauungsprobleme,\r Durchfall, Hyperaktivit\xE4t, Verwandlung in einen Twingo.\"
+      You translate with your leftover of your\r german lessons: \"Side effects:
+      digestion disorders, hyperactivity, turning into a twingo\"."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4375124234240
+    m_Localized: "\tYou take a sip of coffee, but the bitterness is just too much.
+      As you are getting some milk from the\r fridge, you notice a key full of cat's
+      hair on the floor."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4573833580544
+    m_Localized: "\tYou pick up the key, whose diamond shape reminds you of something...
+      but what?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4897885507584
+    m_Localized: "\tAs you were about to inquire about Caramel Mou's condition, you
+      notice a sort of mark between her\r ears."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5144619634688
+    m_Localized: "\tYou pull Caramel Mou's hair apart to discover a strange diamond-shaped
+      mark printed on his skin. As you pull your hands away, your feline stiffens
+      and his eyes begin to blink steadily with orange beams of light. W-e-i-r-d."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5451294560256
+    m_Localized: "\tBetween the kibble's side effects, the hairy key and the losange-shaped
+      mark on his ears, you have to face the facts: Caramel Mou is slowly turning
+      into a Renault Twingo I (1996). What do you do ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5716512985088
+    m_Localized: "\t- How would you react if I told you that Caramel Mou was turning
+      into a Twingo?\r\n- Like the car? Well, he's already super-heavy, makes a lot
+      of noise and we have to wash him once a\r while, so it wouldn't be a major
+      difference ? Worst case scenario you could put him in the garage ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6577515515904
+    m_Localized: "\tAs you place the key on Caramel Mou's tongue, a little central
+      control noise comes out of his throat:\r \"Twing Twing\". A scratch behind
+      the ear and your cat starts purring in an unusual way."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6746449498112
+    m_Localized: "\tYou're not a mechanic but you recognize a Sierra engine when
+      you hear one. You open the driver's\r door of your Caramel Moutoris\xE9, sit
+      down on the hairy armchair and rev up.\r\n\nYou're off on a fantastic road-trip
+      of the French countryside."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

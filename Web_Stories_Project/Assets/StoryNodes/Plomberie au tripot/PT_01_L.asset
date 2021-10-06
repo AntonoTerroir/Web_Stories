@@ -15,4 +15,15 @@ MonoBehaviour:
   sprite: {fileID: 21300000, guid: 217eabf1d7e233d4cb67efabab8f0752, type: 3}
   backgroundColor: {r: 0, g: 0, b: 0, a: 0}
   description: Choisir la verte
+  descriptionLocal:
+    m_TableReference:
+      m_TableCollectionName: GUID:139a82c939201a54181601c896b220d6
+    m_TableEntryReference:
+      m_KeyId: 3254322319360
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
   nextStoryNode: {fileID: 11400000, guid: 79e3697f0a9f594459c6666183a63afd, type: 2}
+  references:
+    version: 1

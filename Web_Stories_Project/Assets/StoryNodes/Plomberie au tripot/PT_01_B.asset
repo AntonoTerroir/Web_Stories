@@ -17,7 +17,19 @@ MonoBehaviour:
     la clef rouge. Il vous promet un avenir radieux et bucolique. Vous finissez par
     vous installer ensemble dans le Larzac, o\xF9 vous \xE9levez une demi-douzaine
     de ch\xE8vres."
+  descriptionLocal:
+    m_TableReference:
+      m_TableCollectionName: GUID:86ad89cb04013714ca61503f410df658
+    m_TableEntryReference:
+      m_KeyId: 3079952519168
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
   isConclusion: 1
   conclusionSprite: {fileID: 21300000, guid: 4894ab60d2265dd4aa921f73e3c7b028, type: 3}
+  hasOneChoice: 0
   choiceLeft: {fileID: 0}
   choiceRight: {fileID: 0}
+  references:
+    version: 1

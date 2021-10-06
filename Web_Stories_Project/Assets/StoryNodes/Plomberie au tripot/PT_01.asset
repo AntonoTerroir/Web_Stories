@@ -17,7 +17,19 @@ MonoBehaviour:
     de tuyauterie finement entrem\xEAl\xE9e. Un homme bedonnant en marcel blanc et
     salopette moulante vous accueille d\u2019un haussement de moustache. Il vous
     pr\xE9sente deux clefs \xE0 molette : une verte et une rouge."
+  descriptionLocal:
+    m_TableReference:
+      m_TableCollectionName: GUID:86ad89cb04013714ca61503f410df658
+    m_TableEntryReference:
+      m_KeyId: 1362519248896
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
   isConclusion: 0
   conclusionSprite: {fileID: 0}
+  hasOneChoice: 0
   choiceLeft: {fileID: 11400000, guid: a7c617ae693be7e40aeee3a4d0d3bc4d, type: 2}
   choiceRight: {fileID: 11400000, guid: cef02bcaeca90af4e90b219cd140fbbf, type: 2}
+  references:
+    version: 1

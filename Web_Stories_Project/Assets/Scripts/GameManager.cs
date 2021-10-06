@@ -4,6 +4,7 @@ using UnityEngine;
 using TMPro;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using UnityEngine.Localization.Components;
 
 public class GameManager : MonoBehaviour
 {
@@ -11,18 +12,22 @@ public class GameManager : MonoBehaviour
 
     public TextMeshProUGUI titleText;
     public TextMeshProUGUI storyDescriptionText;
+    public LocalizeStringEvent descriptionLocalEvent;
 
     public TextMeshProUGUI choiceLeftDescriptionText;
+    public LocalizeStringEvent choiceLeftLocalEvent;
     public Image choiceLeftImage;
     public Color choiceLeftColor;
     public Button choiceLeftButton;
 
     public TextMeshProUGUI choiceCenterDescriptionText;
+    public LocalizeStringEvent choiceCenterLocalEvent;
     public Image choiceCenterImage;
     public Color choiceCenterColor;
     public Button choiceCenterButton;
 
     public TextMeshProUGUI choiceRightDescriptionText;
+    public LocalizeStringEvent choiceRightLocalEvent;
     public Image choiceRightImage;
     public Color choiceRightColor;
     public Button choiceRightButton;
@@ -77,7 +82,8 @@ public class GameManager : MonoBehaviour
         currentStoryNode = node;
         
         titleText.text = node.title;
-        storyDescriptionText.text = node.description;
+        descriptionLocalEvent.StringReference.SetReference(node.descriptionLocal.TableReference, node.descriptionLocal.TableEntryReference);
+        //storyDescriptionText.text = node.description;
 
         if (node.isConclusion)
         {
@@ -106,7 +112,8 @@ public class GameManager : MonoBehaviour
         choiceL.SetActive(true);
         choiceR.SetActive(true);
 
-        choiceLeftDescriptionText.text = node.description;
+        //choiceLeftDescriptionText.text = node.description;
+        choiceLeftLocalEvent.StringReference.SetReference(node.descriptionLocal.TableReference, node.descriptionLocal.TableEntryReference);
         choiceLeftImage.sprite = node.sprite;
         choiceLeftColor = node.backgroundColor;
     }
@@ -117,7 +124,8 @@ public class GameManager : MonoBehaviour
         choiceL.SetActive(true);
         choiceR.SetActive(true);
 
-        choiceRightDescriptionText.text = node.description;
+        //choiceRightDescriptionText.text = node.description;
+        choiceRightLocalEvent.StringReference.SetReference(node.descriptionLocal.TableReference, node.descriptionLocal.TableEntryReference);
         choiceRightImage.sprite = node.sprite;
         choiceRightColor = node.backgroundColor;
     }
@@ -128,7 +136,8 @@ public class GameManager : MonoBehaviour
         choiceL.SetActive(false);
         choiceR.SetActive(false);
 
-        choiceCenterDescriptionText.text = node.description;
+        //choiceCenterDescriptionText.text = node.description;
+        choiceLeftLocalEvent.StringReference.SetReference(node.descriptionLocal.TableReference, node.descriptionLocal.TableEntryReference);
         choiceCenterImage.sprite = node.sprite;
         choiceCenterColor = node.backgroundColor;
     }

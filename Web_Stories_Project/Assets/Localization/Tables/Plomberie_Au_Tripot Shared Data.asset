@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Plomberie_Au_Tripot Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Plomberie_Au_Tripot_Story
+  m_TableCollectionNameGuidString: 86ad89cb04013714ca61503f410df658
+  m_Entries:
+  - m_Id: 7306072064
+    m_Key: PT_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 282653741056
+    m_Key: PT_Intro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1362519248896
+    m_Key: PT_Yvon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1863990235136
+    m_Key: PT_Dog_Drink
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2390752874496
+    m_Key: PT_Green_Wrench
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3079952519168
+    m_Key: PT_Red_Wrench
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16053647822848
+    m_Key: PT_Gamble
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16122027560960
+    m_Key: PT_Cops
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1633528362334

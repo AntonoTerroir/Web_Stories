@@ -17,7 +17,19 @@ MonoBehaviour:
     vous \xEAtes accost\xE9 par un rottweiler au poils fatigu\xE9s qui d\xE9pose
     une carte de visite \xE0 vos pieds en ouvrant doucement la gueule. Vous y lisez
     : \"Yvon - Voyance et Plomberie - 7 rue des Lilas\"."
+  descriptionLocal:
+    m_TableReference:
+      m_TableCollectionName: GUID:86ad89cb04013714ca61503f410df658
+    m_TableEntryReference:
+      m_KeyId: 282653741056
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
   isConclusion: 0
   conclusionSprite: {fileID: 0}
+  hasOneChoice: 0
   choiceLeft: {fileID: 11400000, guid: a8fa54eca3d3f964395ad32c2a8090e5, type: 2}
   choiceRight: {fileID: 11400000, guid: 11b7d435e9a7b1948b7681f38fd79184, type: 2}
+  references:
+    version: 1

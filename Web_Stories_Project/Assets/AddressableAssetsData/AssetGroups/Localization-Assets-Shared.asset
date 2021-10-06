@@ -21,6 +21,26 @@ MonoBehaviour:
     m_Address: Assets/Localization/Tables/UI Text Shared Data.asset
     m_ReadOnly: 1
     m_SerializedLabels: []
+  - m_GUID: 86ad89cb04013714ca61503f410df658
+    m_Address: Assets/Localization/Tables/Plomberie_Au_Tripot Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 139a82c939201a54181601c896b220d6
+    m_Address: Assets/Localization/Tables/Plomberie_Au_Tripot_Choices Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: c4a729bd81686ae45bafd09429d02d61
+    m_Address: Assets/Localization/Tables/Story_UI Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 8a23f91b8611cd24cafdd57015777bbf
+    m_Address: Assets/Localization/Tables/Felin_8_Soupapes_Story Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 3a68e7fa5836ba749b8cc521fe699b38
+    m_Address: Assets/Localization/Tables/Felin_8_Soupapes_Choices Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 0f24e7e21121cba49b979279f252863f, type: 2}
   m_SchemaSet:
