@@ -14,5 +14,7 @@ public class ChoiceNode : ScriptableObject
 
     public LocalizedString descriptionLocal;
 
+    public ConditionNode fulfillCondition = null;
+
     public StoryNode nextStoryNode;
 }

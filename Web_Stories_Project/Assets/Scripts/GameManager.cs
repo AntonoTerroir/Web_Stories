@@ -102,6 +102,30 @@ public class GameManager : MonoBehaviour
             return;
         }
 
+        if (node.requiredCondition != null)
+        {
+            if (node.requiredCondition.completed)
+            {
+                if (node.changeChoiceLeftOnMetCondition)
+                {
+                    DisplayChoiceNodeLeft(node.alternativeChoiceLeft);
+                    DisplayChoiceNodeRight(node.choiceRight);
+                }
+                else if (node.changeChoiceRightOnMetCondition)
+                {
+                    DisplayChoiceNodeLeft(node.choiceLeft);
+                    DisplayChoiceNodeRight(node.alternativeChoiceRight);
+                }
+                else if (node.changeBothChoicesOnMetCondition)
+                {
+                    DisplayChoiceNodeLeft(node.alternativeChoiceLeft);
+                    DisplayChoiceNodeRight(node.alternativeChoiceRight);
+                }
+
+                return;
+            }
+        }
+
         DisplayChoiceNodeLeft(node.choiceLeft);
         DisplayChoiceNodeRight(node.choiceRight);
     }
@@ -142,9 +166,14 @@ public class GameManager : MonoBehaviour
         choiceCenterColor = node.backgroundColor;
     }
 
-    public void MakeChoiceLeft()
+    //A CHANGER METTRE UN CURRENT CHOICE NODE L R C EN PUBLIC COMME ARGUMENT DES FONCTIONS MAKECHOICE SINON LA FULFILL CONDITION SERA JAMAIS REMPLIE
+    public void MakeChoiceLeft(ChoiceNode node)
     {
         StartCoroutine(ChoiceLeftStructure());
+        if (node.fulfillCondition != null)
+        {
+            node.fulfillCondition.completed = true;
+        }
     }
 
     private IEnumerator ChoiceLeftStructure()
@@ -156,9 +185,14 @@ public class GameManager : MonoBehaviour
         transitionManager.StopTransition();
     }
 
-    public void MakeChoiceRight()
+    public void MakeChoiceRight(ChoiceNode node)
     {
         StartCoroutine(ChoiceRightStructure());
+        StartCoroutine(ChoiceLeftStructure());
+        if (node.fulfillCondition != null)
+        {
+            node.fulfillCondition.completed = true;
+        }
     }
 
     private IEnumerator ChoiceRightStructure()

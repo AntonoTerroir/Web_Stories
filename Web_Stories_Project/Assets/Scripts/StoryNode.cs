@@ -17,6 +17,14 @@ public class StoryNode : ScriptableObject
 
     public bool hasOneChoice = false;
 
+    public ConditionNode requiredCondition = null;
+    public bool changeChoiceLeftOnMetCondition = false;
+    public bool changeChoiceRightOnMetCondition = false;
+    public bool changeBothChoicesOnMetCondition = false;
+
     public ChoiceNode choiceLeft;
     public ChoiceNode choiceRight;
+
+    public ChoiceNode alternativeChoiceLeft;
+    public ChoiceNode alternativeChoiceRight;
 }
