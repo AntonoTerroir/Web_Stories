@@ -1,17 +1,9 @@
 {
-<<<<<<< Updated upstream
-"Date": "07/10/2021 11:45:26",
-=======
-"Date": "06/10/2021 22:50:35",
->>>>>>> Stashed changes
+"Date": "09/10/2021 18:38:49",
 "UnityVersion": "2020.3.19f1",
 "com.unity.scriptablebuildpipeline": "1.19.2",
 "com.unity.addressables": "1.19.4",
 "traceEvents": [
-<<<<<<< Updated upstream
-{"name": "Building Use Asset Database (fastest)", "ph": "X", "dur": 823.799999999999, "tid": 1, "ts": 5554, "pid": 1}
-=======
-{"name": "Building Use Asset Database (fastest)", "ph": "X", "dur": 1355.7, "tid": 1, "ts": 12291, "pid": 1}
->>>>>>> Stashed changes
+{"name": "Building Use Asset Database (fastest)", "ph": "X", "dur": 1230.6, "tid": 1, "ts": 11195, "pid": 1}
 ]
 }

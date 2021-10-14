@@ -46,5 +46,33 @@ MonoBehaviour:
     m_Localized: Se lever pour examiner Caramel Mou
     m_Metadata:
       m_Items: []
+  - m_Id: 1096119735164928
+    m_Localized: "Boire une gorg\xE9e de caf\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1097416790122496
+    m_Localized: Se lever et examiner le paquet de croquettes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1097572809842688
+    m_Localized: Examiner le dos du paquet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1098659952467968
+    m_Localized: Examiner Caramel Mou
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1100252647137280
+    m_Localized: Rassembler les indices
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1100352366714880
+    m_Localized: "Ramasser la cl\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1100600577236992
+    m_Localized: "Faire part de vos scepticisme \xE0 votre colocataire"
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

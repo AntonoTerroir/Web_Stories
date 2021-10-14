@@ -46,5 +46,33 @@ MonoBehaviour:
     m_Localized: Get up and check on Caramel Mou
     m_Metadata:
       m_Items: []
+  - m_Id: 1096119735164928
+    m_Localized: Drink a sip of coffee
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1097416790122496
+    m_Localized: Get up and examine the kibble packaging
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1097572809842688
+    m_Localized: Examine the back of the package
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1098659952467968
+    m_Localized: Check on Caramel Mou
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1100252647137280
+    m_Localized: Gather the clues
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1100352366714880
+    m_Localized: Pick up the key
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1100600577236992
+    m_Localized: Share your skepticism with your roommate
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

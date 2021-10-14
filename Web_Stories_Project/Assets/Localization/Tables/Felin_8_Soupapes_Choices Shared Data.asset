@@ -43,6 +43,34 @@ MonoBehaviour:
     m_Key: F8_Conseil_Coloc_01_L
     m_Metadata:
       m_Items: []
+  - m_Id: 1096119735164928
+    m_Key: F8_Pelage_Brilliant_R
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1097416790122496
+    m_Key: F8_Conseil_Coloc_01_R
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1097572809842688
+    m_Key: F8_Paquet_Croquettes_Avant_L
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1098659952467968
+    m_Key: F8_Paquet_Croquettes_Arriere_L
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1100252647137280
+    m_Key: F8_Paquet_Croquettes_Arriere_R
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1100352366714880
+    m_Key: F8_Cafe_L
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1100600577236992
+    m_Key: F8_Clef_L
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

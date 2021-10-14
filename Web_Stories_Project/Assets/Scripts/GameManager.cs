@@ -166,13 +166,12 @@ public class GameManager : MonoBehaviour
         choiceCenterColor = node.backgroundColor;
     }
 
-    //A CHANGER METTRE UN CURRENT CHOICE NODE L R C EN PUBLIC COMME ARGUMENT DES FONCTIONS MAKECHOICE SINON LA FULFILL CONDITION SERA JAMAIS REMPLIE
-    public void MakeChoiceLeft(ChoiceNode node)
+    public void MakeChoiceLeft()
     {
         StartCoroutine(ChoiceLeftStructure());
-        if (node.fulfillCondition != null)
+        if (currentStoryNode.choiceLeft.fulfillCondition != null)
         {
-            node.fulfillCondition.completed = true;
+            currentStoryNode.choiceLeft.fulfillCondition.completed = true;
         }
     }
 
@@ -185,13 +184,13 @@ public class GameManager : MonoBehaviour
         transitionManager.StopTransition();
     }
 
-    public void MakeChoiceRight(ChoiceNode node)
+    public void MakeChoiceRight()
     {
         StartCoroutine(ChoiceRightStructure());
         StartCoroutine(ChoiceLeftStructure());
-        if (node.fulfillCondition != null)
+        if (currentStoryNode.choiceRight.fulfillCondition != null)
         {
-            node.fulfillCondition.completed = true;
+            currentStoryNode.choiceRight.fulfillCondition.completed = true;
         }
     }
 
