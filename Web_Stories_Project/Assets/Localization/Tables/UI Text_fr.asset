@@ -50,5 +50,9 @@ MonoBehaviour:
     m_Localized: "...F\xE9lin 8 soupapes"
     m_Metadata:
       m_Items: []
+  - m_Id: 633901986467840
+    m_Localized: ...Voyage Nocturne
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

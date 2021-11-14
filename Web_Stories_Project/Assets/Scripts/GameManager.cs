@@ -11,6 +11,7 @@ public class GameManager : MonoBehaviour
     public StoryNode firstStoryNode;
 
     public TextMeshProUGUI titleText;
+    public LocalizeStringEvent titleLocalEvent;
     public TextMeshProUGUI storyDescriptionText;
     public LocalizeStringEvent descriptionLocalEvent;
 
@@ -81,7 +82,8 @@ public class GameManager : MonoBehaviour
     {
         currentStoryNode = node;
         
-        titleText.text = node.title;
+        //titleText.text = node.title;
+        titleLocalEvent.StringReference.SetReference(node.titleLocal.TableReference, node.titleLocal.TableEntryReference);
         descriptionLocalEvent.StringReference.SetReference(node.descriptionLocal.TableReference, node.descriptionLocal.TableEntryReference);
         //storyDescriptionText.text = node.description;
 

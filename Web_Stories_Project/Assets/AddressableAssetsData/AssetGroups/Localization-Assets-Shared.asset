@@ -41,6 +41,18 @@ MonoBehaviour:
     m_Address: Assets/Localization/Tables/Felin_8_Soupapes_Choices Shared Data.asset
     m_ReadOnly: 1
     m_SerializedLabels: []
+  - m_GUID: cb4d6290247e5d1439f0989fd9ffb308
+    m_Address: Assets/Localization/Tables/Voyage_Nocturne_Story Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 32122d98c21b9e045b12527e37cb948b
+    m_Address: Assets/Localization/Tables/Voyage_Nocturne_Choices Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 739a93032ef60894d945ec9193795bcf
+    m_Address: Assets/Localization/Tables/Voyage_Nocturne_Titles Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 0f24e7e21121cba49b979279f252863f, type: 2}
   m_SchemaSet:

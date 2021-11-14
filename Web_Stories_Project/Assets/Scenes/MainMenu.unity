@@ -177,6 +177,7 @@ MonoBehaviour:
   stories:
   - {fileID: 11400000, guid: b2148cd33e43ac44db8b06c3cf32005e, type: 2}
   - {fileID: 11400000, guid: 84c928a1bd781df429645d51e6f7bfef, type: 2}
+  - {fileID: 11400000, guid: ecbfd5ac5c7a97f439931a82f8c67a2b, type: 2}
   storyPrefab: {fileID: 3364569459915080308, guid: 406110d3f37cd89408de1f2dee57222b, type: 3}
   panel: {fileID: 1928847032}
 --- !u!1 &25870745

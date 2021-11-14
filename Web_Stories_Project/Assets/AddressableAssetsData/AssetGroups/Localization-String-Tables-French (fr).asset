@@ -47,6 +47,21 @@ MonoBehaviour:
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-fr
+  - m_GUID: c0af55b50b3403d48af8cfec89586fa4
+    m_Address: Voyage_Nocturne_Story_fr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr
+  - m_GUID: 09ce71187bfe331438771bbc834df275
+    m_Address: Voyage_Nocturne_Choices_fr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr
+  - m_GUID: 21d2613256f703148b897e0aba9adb6a
+    m_Address: Voyage_Nocturne_Titles_fr
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-fr
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 0f24e7e21121cba49b979279f252863f, type: 2}
   m_SchemaSet:

@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Voyage_Nocturne_Titles_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 739a93032ef60894d945ec9193795bcf, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 7054594048
+    m_Localized: VOYAGE NOCTURNE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47496073216
+    m_Localized: LES SUIVRE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 646266523648
+    m_Localized: FUIR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 706165379072
+    m_Localized: "ACC\xC9L\xC9RER"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 783780974592
+    m_Localized: TENTER DE FAIRE DEMI-TOUR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 910235045888
+    m_Localized: PLONGER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 957928476672
+    m_Localized: VOUS ACCROCHEZ AUX PAROIS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1026874445824
+    m_Localized: TENTER DE REPRENDRE PIED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1084483211264
+    m_Localized: S'ABANDONNER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1170776821760
+    m_Localized: "S'\xC9MERVEILLER"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1273159782400
+    m_Localized: "S'ACCROCHER \xC0 UN CHIEN"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1348795666432
+    m_Localized: "S'\xC9LEVER"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1849226465280
+    m_Localized: SE FONDRE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1901323915264
+    m_Localized: RIEN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1949134786560
+    m_Localized: TOUT
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

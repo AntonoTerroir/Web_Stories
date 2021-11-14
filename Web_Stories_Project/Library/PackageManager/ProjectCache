@@ -1,20 +1,20 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: D:/Travail/2021-2022_ENJMIN2/Web_Stories/Web_Stories/Web_Stories_Project/Packages/manifest.json
+    m_FilePath: C:/Users/ELE5f57a4495b85e/Documents/Unity/Web_Stories/Web_Stories_Project/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637689662971948205
-    m_Hash: 4286857089
+      ticks: 637697601587230998
+    m_Hash: 3555804985
   m_LockFileStatus:
-    m_FilePath: D:/Travail/2021-2022_ENJMIN2/Web_Stories/Web_Stories/Web_Stories_Project/Packages/packages-lock.json
+    m_FilePath: C:/Users/ELE5f57a4495b85e/Documents/Unity/Web_Stories/Web_Stories_Project/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637689662971948205
-    m_Hash: 1142542513
+      ticks: 637697601587251000
+    m_Hash: 93428220
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -25,7 +25,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.2d.sprite@1.0.0
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.2d.sprite@1.0.0
       assetPath: Packages/com.unity.2d.sprite
       name: com.unity.2d.sprite
       displayName: 2D Sprite
@@ -76,7 +76,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.6.10
       source: 1
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.cinemachine@2.6.10
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.cinemachine@2.6.10
       assetPath: Packages/com.unity.cinemachine
       name: com.unity.cinemachine
       displayName: Cinemachine
@@ -221,7 +221,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.9.0
       source: 1
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.collab-proxy@1.9.0
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.collab-proxy@1.9.0
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Version Control
@@ -334,7 +334,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.7
       source: 1
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.ide.rider@2.0.7
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.ide.rider@2.0.7
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
       displayName: JetBrains Rider Editor
@@ -441,7 +441,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.11
       source: 1
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.ide.visualstudio@2.0.11
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.ide.visualstudio@2.0.11
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -528,7 +528,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.4
       source: 1
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.ide.vscode@1.2.4
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.ide.vscode@1.2.4
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
       displayName: Visual Studio Code Editor
@@ -599,7 +599,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.3
       source: 1
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.localization@1.0.3
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.localization@1.0.3
       assetPath: Packages/com.unity.localization
       name: com.unity.localization
       displayName: Localization
@@ -726,7 +726,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 10.6.0
       source: 1
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.render-pipelines.universal@10.6.0
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.render-pipelines.universal@10.6.0
       assetPath: Packages/com.unity.render-pipelines.universal
       name: com.unity.render-pipelines.universal
       displayName: Universal RP
@@ -842,7 +842,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.1.29
       source: 1
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.test-framework@1.1.29
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.test-framework@1.1.29
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -933,7 +933,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.6
       source: 1
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.textmeshpro@3.0.6
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.textmeshpro@3.0.6
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -1092,7 +1092,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.4.8
       source: 1
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.timeline@1.4.8
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.timeline@1.4.8
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -1244,7 +1244,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.ugui@1.0.0
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.ugui@1.0.0
       assetPath: Packages/com.unity.ugui
       name: com.unity.ugui
       displayName: Unity UI
@@ -1307,7 +1307,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.ai@1.0.0
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.ai@1.0.0
       assetPath: Packages/com.unity.modules.ai
       name: com.unity.modules.ai
       displayName: AI
@@ -1355,7 +1355,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.androidjni@1.0.0
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.androidjni@1.0.0
       assetPath: Packages/com.unity.modules.androidjni
       name: com.unity.modules.androidjni
       displayName: Android JNI
@@ -1403,7 +1403,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.animation@1.0.0
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.animation@1.0.0
       assetPath: Packages/com.unity.modules.animation
       name: com.unity.modules.animation
       displayName: Animation
@@ -1451,7 +1451,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
       assetPath: Packages/com.unity.modules.assetbundle
       name: com.unity.modules.assetbundle
       displayName: Asset Bundle
@@ -1499,7 +1499,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.audio@1.0.0
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.audio@1.0.0
       assetPath: Packages/com.unity.modules.audio
       name: com.unity.modules.audio
       displayName: Audio
@@ -1547,7 +1547,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.cloth@1.0.0
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.cloth@1.0.0
       assetPath: Packages/com.unity.modules.cloth
       name: com.unity.modules.cloth
       displayName: Cloth
@@ -1599,7 +1599,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.director@1.0.0
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.director@1.0.0
       assetPath: Packages/com.unity.modules.director
       name: com.unity.modules.director
       displayName: Director
@@ -1655,7 +1655,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
       assetPath: Packages/com.unity.modules.imageconversion
       name: com.unity.modules.imageconversion
       displayName: Image Conversion
@@ -1704,7 +1704,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.imgui@1.0.0
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.imgui@1.0.0
       assetPath: Packages/com.unity.modules.imgui
       name: com.unity.modules.imgui
       displayName: IMGUI
@@ -1752,7 +1752,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
       assetPath: Packages/com.unity.modules.jsonserialize
       name: com.unity.modules.jsonserialize
       displayName: JSONSerialize
@@ -1800,7 +1800,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
       assetPath: Packages/com.unity.modules.particlesystem
       name: com.unity.modules.particlesystem
       displayName: Particle System
@@ -1848,7 +1848,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.physics@1.0.0
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.physics@1.0.0
       assetPath: Packages/com.unity.modules.physics
       name: com.unity.modules.physics
       displayName: Physics
@@ -1896,7 +1896,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.physics2d@1.0.0
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.physics2d@1.0.0
       assetPath: Packages/com.unity.modules.physics2d
       name: com.unity.modules.physics2d
       displayName: Physics 2D
@@ -1944,7 +1944,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.screencapture@1.0.0
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.screencapture@1.0.0
       assetPath: Packages/com.unity.modules.screencapture
       name: com.unity.modules.screencapture
       displayName: Screen Capture
@@ -1996,7 +1996,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.terrain@1.0.0
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.terrain@1.0.0
       assetPath: Packages/com.unity.modules.terrain
       name: com.unity.modules.terrain
       displayName: Terrain
@@ -2044,7 +2044,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
       assetPath: Packages/com.unity.modules.terrainphysics
       name: com.unity.modules.terrainphysics
       displayName: Terrain Physics
@@ -2100,7 +2100,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.tilemap@1.0.0
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.tilemap@1.0.0
       assetPath: Packages/com.unity.modules.tilemap
       name: com.unity.modules.tilemap
       displayName: Tilemap
@@ -2152,7 +2152,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.ui@1.0.0
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.ui@1.0.0
       assetPath: Packages/com.unity.modules.ui
       name: com.unity.modules.ui
       displayName: UI
@@ -2200,7 +2200,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.uielements@1.0.0
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.uielements@1.0.0
       assetPath: Packages/com.unity.modules.uielements
       name: com.unity.modules.uielements
       displayName: UIElements
@@ -2264,7 +2264,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.umbra@1.0.0
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.umbra@1.0.0
       assetPath: Packages/com.unity.modules.umbra
       name: com.unity.modules.umbra
       displayName: Umbra
@@ -2312,7 +2312,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
       assetPath: Packages/com.unity.modules.unityanalytics
       name: com.unity.modules.unityanalytics
       displayName: Unity Analytics
@@ -2368,7 +2368,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
       assetPath: Packages/com.unity.modules.unitywebrequest
       name: com.unity.modules.unitywebrequest
       displayName: Unity Web Request
@@ -2416,7 +2416,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
       assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
       name: com.unity.modules.unitywebrequestassetbundle
       displayName: Unity Web Request Asset Bundle
@@ -2472,7 +2472,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
       assetPath: Packages/com.unity.modules.unitywebrequestaudio
       name: com.unity.modules.unitywebrequestaudio
       displayName: Unity Web Request Audio
@@ -2528,7 +2528,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
       assetPath: Packages/com.unity.modules.unitywebrequesttexture
       name: com.unity.modules.unitywebrequesttexture
       displayName: Unity Web Request Texture
@@ -2584,7 +2584,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
       assetPath: Packages/com.unity.modules.unitywebrequestwww
       name: com.unity.modules.unitywebrequestwww
       displayName: Unity Web Request WWW
@@ -2656,7 +2656,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.vehicles@1.0.0
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.vehicles@1.0.0
       assetPath: Packages/com.unity.modules.vehicles
       name: com.unity.modules.vehicles
       displayName: Vehicles
@@ -2708,7 +2708,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.video@1.0.0
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.video@1.0.0
       assetPath: Packages/com.unity.modules.video
       name: com.unity.modules.video
       displayName: Video
@@ -2768,7 +2768,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.vr@1.0.0
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.vr@1.0.0
       assetPath: Packages/com.unity.modules.vr
       name: com.unity.modules.vr
       displayName: VR
@@ -2830,7 +2830,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.wind@1.0.0
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.wind@1.0.0
       assetPath: Packages/com.unity.modules.wind
       name: com.unity.modules.wind
       displayName: Wind
@@ -2878,7 +2878,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.xr@1.0.0
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.xr@1.0.0
       assetPath: Packages/com.unity.modules.xr
       name: com.unity.modules.xr
       displayName: XR
@@ -2938,7 +2938,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.subsystems@1.0.0
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.subsystems@1.0.0
       assetPath: Packages/com.unity.modules.subsystems
       name: com.unity.modules.subsystems
       displayName: Subsystems
@@ -2990,7 +2990,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 2
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0
       assetPath: Packages/com.unity.modules.uielementsnative
       name: com.unity.modules.uielementsnative
       displayName: UIElements Native
@@ -3049,7 +3049,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.6
       source: 1
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.ext.nunit@1.0.6
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.ext.nunit@1.0.6
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
       displayName: Custom NUnit
@@ -3110,7 +3110,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.1.0
       source: 1
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.mathematics@1.1.0
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.mathematics@1.1.0
       assetPath: Packages/com.unity.mathematics
       name: com.unity.mathematics
       displayName: Mathematics
@@ -3126,12 +3126,38 @@ m_PackageAssets:
       errors: []
       versions:
         all:
+        - 0.0.12-preview.2
+        - 0.0.12-preview.5
+        - 0.0.12-preview.8
+        - 0.0.12-preview.10
+        - 0.0.12-preview.11
+        - 0.0.12-preview.13
+        - 0.0.12-preview.17
+        - 0.0.12-preview.19
+        - 0.0.12-preview.20
+        - 1.0.0-preview.1
+        - 1.0.1
+        - 1.1.0-preview.1
         - 1.1.0
         - 1.2.1
+        - 1.2.4
         compatible:
+        - 0.0.12-preview.2
+        - 0.0.12-preview.5
+        - 0.0.12-preview.8
+        - 0.0.12-preview.10
+        - 0.0.12-preview.11
+        - 0.0.12-preview.13
+        - 0.0.12-preview.17
+        - 0.0.12-preview.19
+        - 0.0.12-preview.20
+        - 1.0.0-preview.1
+        - 1.0.1
+        - 1.1.0-preview.1
         - 1.1.0
         - 1.2.1
-        verified: 1.2.1
+        - 1.2.4
+        verified: 1.2.4
       dependencies: []
       resolvedDependencies: []
       keywords:
@@ -3148,7 +3174,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 0
+      datePublishedTicks: 636984649280000000
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -3161,7 +3187,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 10.6.0
       source: 1
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.render-pipelines.core@10.6.0
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.render-pipelines.core@10.6.0
       assetPath: Packages/com.unity.render-pipelines.core
       name: com.unity.render-pipelines.core
       displayName: Core RP Library
@@ -3251,6 +3277,9 @@ m_PackageAssets:
         - 7.5.1
         - 7.5.2
         - 7.5.3
+        - 7.6.0
+        - 7.7.0
+        - 7.7.1
         - 8.0.1
         - 8.1.0
         - 8.2.0
@@ -3267,10 +3296,14 @@ m_PackageAssets:
         - 10.2.2
         - 10.3.1
         - 10.3.2
+        - 10.4.0
+        - 10.5.0
         - 10.5.1
         - 10.6.0
+        - 10.7.0
         compatible:
         - 10.6.0
+        - 10.7.0
         verified: 10.6.0
       dependencies:
       - name: com.unity.ugui
@@ -3295,7 +3328,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 0
+      datePublishedTicks: 637613656840000000
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -3308,7 +3341,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 10.6.0
       source: 1
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.shadergraph@10.6.0
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.shadergraph@10.6.0
       assetPath: Packages/com.unity.shadergraph
       name: com.unity.shadergraph
       displayName: Shader Graph
@@ -3396,6 +3429,9 @@ m_PackageAssets:
         - 7.5.1
         - 7.5.2
         - 7.5.3
+        - 7.6.0
+        - 7.7.0
+        - 7.7.1
         - 8.0.1
         - 8.1.0
         - 8.2.0
@@ -3411,10 +3447,14 @@ m_PackageAssets:
         - 10.2.2
         - 10.3.1
         - 10.3.2
+        - 10.4.0
+        - 10.5.0
         - 10.5.1
         - 10.6.0
+        - 10.7.0
         compatible:
         - 10.6.0
+        - 10.7.0
         verified: 10.6.0
       dependencies:
       - name: com.unity.render-pipelines.core
@@ -3445,7 +3485,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 0
+      datePublishedTicks: 637613662270000000
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -3458,7 +3498,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.19.4
       source: 1
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.addressables@1.19.4
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.addressables@1.19.4
       assetPath: Packages/com.unity.addressables
       name: com.unity.addressables
       displayName: Addressables
@@ -3570,6 +3610,7 @@ m_PackageAssets:
         - 1.18.16
         - 1.19.4
         - 1.19.6
+        - 1.19.9
         compatible:
         - 0.0.8-preview
         - 0.0.12-preview
@@ -3649,6 +3690,7 @@ m_PackageAssets:
         - 1.18.16
         - 1.19.4
         - 1.19.6
+        - 1.19.9
         verified: 1.18.16
       dependencies:
       - name: com.unity.scriptablebuildpipeline
@@ -3707,7 +3749,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 2.0.0
       source: 1
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0
       assetPath: Packages/com.unity.nuget.newtonsoft-json
       name: com.unity.nuget.newtonsoft-json
       displayName: Newtonsoft Json
@@ -3763,7 +3805,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 4.3.2
       source: 1
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.searcher@4.3.2
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.searcher@4.3.2
       assetPath: Packages/com.unity.searcher
       name: com.unity.searcher
       displayName: Searcher
@@ -3793,6 +3835,7 @@ m_PackageAssets:
         - 4.3.2
         - 4.6.0-preview
         - 4.7.0-preview
+        - 4.9.1
         compatible:
         - 4.0.0-preview
         - 4.0.0
@@ -3808,6 +3851,7 @@ m_PackageAssets:
         - 4.3.2
         - 4.6.0-preview
         - 4.7.0-preview
+        - 4.9.1
         verified: 4.3.2
       dependencies: []
       resolvedDependencies: []
@@ -3826,7 +3870,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 0
+      datePublishedTicks: 637509898070000000
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -3839,7 +3883,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.19.2
       source: 1
-      resolvedPath: D:\Travail\2021-2022_ENJMIN2\Web_Stories\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.scriptablebuildpipeline@1.19.2
+      resolvedPath: C:\Users\ELE5f57a4495b85e\Documents\Unity\Web_Stories\Web_Stories_Project\Library\PackageCache\com.unity.scriptablebuildpipeline@1.19.2
       assetPath: Packages/com.unity.scriptablebuildpipeline
       name: com.unity.scriptablebuildpipeline
       displayName: Scriptable Build Pipeline
@@ -3902,6 +3946,7 @@ m_PackageAssets:
         - 1.19.0
         - 1.19.1
         - 1.19.2
+        - 1.19.3
         compatible:
         - 0.0.5-preview
         - 0.0.6-preview
@@ -3948,7 +3993,8 @@ m_PackageAssets:
         - 1.19.0
         - 1.19.1
         - 1.19.2
-        verified: 1.19.2
+        - 1.19.3
+        verified: 1.19.3
       dependencies: []
       resolvedDependencies: []
       keywords:
@@ -3980,5 +4026,5 @@ m_PackageAssets:
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
-m_ProjectPath: D:/Travail/2021-2022_ENJMIN2/Web_Stories/Web_Stories/Web_Stories_Project/Packages
+m_ProjectPath: C:/Users/ELE5f57a4495b85e/Documents/Unity/Web_Stories/Web_Stories_Project/Packages
 m_EditorVersion: 2020.3.19f1 (68f137dc9bbe)

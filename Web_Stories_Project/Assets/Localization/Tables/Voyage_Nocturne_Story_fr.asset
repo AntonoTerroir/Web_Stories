@@ -1,0 +1,182 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Voyage_Nocturne_Story_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: cb4d6290247e5d1439f0989fd9ffb308, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8999919616
+    m_Localized: "\tAgenouill\xE9\xB7e devant le petit autel du chemin de Breuil,
+      vous achevez de nettoyer la derni\xE8re de ses statuettes de porcelaine. La
+      nuit est si claire que vous \xEAtes sorti\xB7e sans torche pour appr\xE9cier
+      la douce nettet\xE9 de sa lumi\xE8re. Vous vous relevez, et tout en \xE9poussetant
+      votre tablier vous vous trouvez subjugu\xE9\xB7e par une vision inexplicable.
+      Une paire de singes blancs porte ce qui semble \xEAtre un long vaisseau de
+      toile. Ils s'enfoncent dans l'obscurit\xE9 du bois, sans un bruit."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 898548883456
+    m_Localized: "\tVous rejoignez les singes dans leur marche silencieuse. Ils ne
+      vous regardent pas. \xC0 mesure que la for\xEAt s'obscurcit, la clart\xE9 de
+      leur pelage se change en une lueur duveteuse. Depuis combien de temps les observez-vous
+      ainsi, captiv\xE9\xB7e, sans \xEAtre capable de penser \xE0 rien ? Lorsque
+      vous levez les yeux, vous \xEAtes entour\xE9\xB7e d'une multitude de cr\xE9atures
+      dont la procession solennelle s'\xE9tend \xE0 perte de vue sur ce chemin qui
+      semble ne jamais finir. Vous ne reconnaissez plus le bois."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 980794990592
+    m_Localized: "\tHorrifi\xE9\xB7e, vous coupez \xE0 travers le champ de seigle
+      pour \xE9chapper aux esprits, mais vous \xEAtes bient\xF4t rattrap\xE9\xB7e
+      par quatre chiens de nacre qui, se tenant debout, avancent \xE0 vos c\xF4t\xE9s.
+      Leur marche semble si lente; pourtant, ils vous rattrapent. Vos pieds quittent
+      le sol. S'agitant toujours, vos jambes ne sont plus qu'un absurde moulin \xE0
+      vent alors que les chiens vous emportent d\xE9j\xE0 loin du champ et de la
+      terre. Le monde r\xE9tr\xE9cit. Le ciel enfle pour couvrir toute votre vision.
+      Vous flottez dans le cosmos.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1407183740928
+    m_Localized: "\tVous vous d\xE9menez dans l'espoir de rejoindre la t\xEAte du
+      cort\xE8ge, vous frayant un chemin entre les apparitions phosphorescentes qui
+      le composent. Leurs silhouettes se succ\xE8dent et s'allongent en d\xE9sordre.
+      Elles sont immenses et molles. Leur cadence irr\xE9guli\xE8re d\xE9forme le
+      d\xE9filement monotone et enivrant des arbres amollis derri\xE8re elles. Vous
+      allez d\xE9faillir. Vous ne voyez plus rien quand le souffle commence \xE0
+      vous manquer et soudain, vous plongez. La procession vous emporte, dans un
+      vertige suspendu, droit \xE0 travers la terre."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1558551977984
+    m_Localized: "\tNageant d\xE9sormais \xE0 contre-courant, vous luttez vainement
+      pour lui \xE9chapper. Pris\xB7e de panique, vous multipliez vos efforts puis
+      perdez compl\xE8tement haleine. L'ivresse vous gagne ; vous finissez par vous
+      abandonner dans un \xE9tat de transe aux vagues lumineuses qui vous emportent
+      peu \xE0 peu, vous \xE9levant comme une brise d\xE9licatement enroul\xE9e sur
+      elle-m\xEAme. Apr\xE8s quelque temps l'extase vous a fait oublier toute id\xE9e
+      d'orientation spatiale."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1718598230016
+    m_Localized: "\tVous enfon\xE7ant dans les profondeurs souterraines, vous voyez
+      la procession se fondre peu \xE0 peu en une masse voluptueuse qui vous enveloppe
+      tout entier\xB7e. Puis dans un m\xEAme \xE9lan ce mouvement s'inverse ; son
+      vaste voile se d\xE9chire en une multitude d'\xEAtres autonomes qui s'\xE9panouissent,
+      se recroquevillent puis disparaissent. Un disque \xE9toil\xE9 est apparu face
+      \xE0 vous, qui enfle \xE0 vue d\u2019\u0153il. Y p\xE9n\xE9trant, vous quittez
+      le sous-sol et vous trouvez de nouveau devant votre autel, sur le chemin de
+      terre. Mais la lune est absente.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1813439832064
+    m_Localized: "\tVos doigts cherchent une prise dans le torrent des strates rocheuses,
+      mais elles sont trop friables. Vous ne faites qu'en arracher des morceaux qui
+      se d\xE9sagr\xE8gent et dansent autour de vous. Peu \xE0 peu, ces miettes se
+      changent en une multitude de larves color\xE9es qui semblent maintenant emplir
+      tout l'espace, s'animant et dessinant t\xE2che apr\xE8s t\xE2che une grouillante
+      fresque. La r\xE9alit\xE9 de cette vision ne cesse de se pr\xE9ciser. Vous
+      y voyez l'autel ; vous y voyez le chemin, et bient\xF4t vous y \xEAtes. Le
+      sol est sous vos pieds."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1896390582272
+    m_Localized: "\tVotre conscience \xE9merge brusquement. Trouver une prise pour
+      saisir le r\xE9el. Maintenant. Avant qu'il ne soit trop tard. Mais vous continuez
+      de d\xE9river. Tout n'est qu'abstraction autour de vous. Vos sens exacerb\xE9s
+      glissent sur des formes aux textures irr\xE9elles. Elles s'espacent. Le tableau
+      du monde concret semble se d\xE9composer enti\xE8rement. Bient\xF4t, ses composants
+      ne sont qu'une poign\xE9e de poussi\xE8res se volatilisant dans une obscurit\xE9
+      totale. Vous ouvrez les yeux. Le chemin vous soutient. L'autel est devant vous.
+      Seule une statuette manque."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1982747107328
+    m_Localized: "\tL'infinie lenteur de ces remous vous berce tristement. Vos yeux
+      sont si grand ouverts que vous ne voyez plus. Imperceptible, votre rotation
+      s'acc\xE9l\xE8re, doublant tous les six si\xE8cles, puis exponentiellement.
+      Lorsque vous en prenez conscience, une angoisse vous prend qui elle aussi s'accro\xEEt
+      sans cesse. Vous \xE9chouez \xE0 retrouver vos sens et l'inertie vous emporte.
+      Vous tourbillonnez maintenant \xE0 une vitesse infernale, croissante, et votre
+      corps cartilage chaotique est d\xE9mantibul\xE9 quand tout s'interrompt imm\xE9diatement.
+      Vous \xEAtes sur le chemin \u2013devant l'autel. Debout, et indemne."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2075172790272
+    m_Localized: "\tCe miracle vous rend extatique. Vous oubliez vos peurs. Sans
+      plus penser au monde que vous laissez derri\xE8re vous, vous accompagnez la
+      d\xE9rive de votre corps \xE0 travers les airs. Voyant se pr\xE9ciser sur votre
+      chemin un \xE9pais nuage luisant faiblement, vous vous y engouffrez avec gourmandise.
+      Sa mati\xE8re est si dense et granuleuse que vos membres se figent en s'y enfon\xE7ant.
+      D\xE9licieusement, vous vous laissez glisser \xE0 l'int\xE9rieur comme dans
+      des sables mouvants. Vous ne distinguez plus que cette infinie mousse beige.
+      Vous entendez son fr\xE9missement continu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2183616520192
+    m_Localized: "\tL'un des spectres est tout proche. Vous saisissez sa taille et
+      une fulgurance indiscernable vous transporte imm\xE9diatement dans la profondeur
+      du cosmos. Vous n'\xEAtes plus entour\xE9\xB7e que des traces irr\xE9elles
+      de mondes trop lointains pour \xEAtre imagin\xE9s. Vous ne trouvez plus le
+      chien dans vos bras. L'univers semble tout \xE0 coup une somme infinie de solitudes.
+      L'occupant dans sa totalit\xE9, un irr\xE9m\xE9diable d\xE9sespoir creuse dans
+      votre \xE2me un vide absolu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2243045613568
+    m_Localized: "\tTournant le dos au monde, vous vous laissez soulever par cette
+      vapeur onctueuse. Vous sentez face \xE0 vous l'immensit\xE9 de l'univers qui
+      vous emplit. Vous ne pesez plus rien. Lorsque vous \xE9mergez lentement au
+      sommet du nuage, le ciel est vide. Une horreur totale vous emplit. Vous \xEAtes
+      pr\xE9cipit\xE9\xB7e en arri\xE8re, traversant \xE0 chaque seconde des milliards
+      de kilom\xE8tres. Il n'y a pas une pens\xE9e en vous. Vous \xEAtes allong\xE9\xB7e
+      sur le chemin de terre. Un arbre sombre danse au-dessus de vous. La lune \xE9claire
+      l'autel."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2327418232832
+    m_Localized: "\tVous vous abandonnez \xE0 cette mati\xE8re c\xE9leste et elle
+      vous p\xE9n\xE8tre peu \xE0 peu. Son souffle s'accentue ; il est de plus en
+      plus profond. Sa vibration si lente, si grave, dissout vos forces. Votre conscience
+      s'\xE9teint. Vous appartenez \xE0 une masse universelle, constante, rotative.
+      Rien n'existe que sa mati\xE8re. Tout son mouvement. La danse de l'univers
+      est inertie. Il glisse\u2026 glisse\u2026 glisse... Vous \xE9mergez naturellement
+      du chemin de terre. La lenteur de l'autel est infinie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2392425750528
+    m_Localized: "\tIndiff\xE9rent\xB7e, vous assistez \xE0 la dispersion du cosmos.
+      Dans un unique et irr\xE9m\xE9diable mouvement, les astres s'\xE9loignent puis
+      disparaissent. L'inanit\xE9 absolue de l'univers se r\xE9v\xE8le en silence.
+      Son vide se gonfle infiniment, levant l'illusion de l'existence. Vide et mort
+      ; infiniment, et depuis toujours. Mais une lueur absurde appara\xEEt doucement
+      qui dessine dans la noirceur les contours faiblement \xE9clair\xE9s de l'autel,
+      et son chemin de terre. Son arbre. Sa for\xEAt. Son champ creux et par-del\xE0
+      le champ, le village. O\xF9 \xEAtes-vous ?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2520427520000
+    m_Localized: "\tVous remarquez tout \xE0 coup l'\xE9blouissante saturation du
+      cosmos. Un vertige vous prend. Sa mati\xE8re ne cesse de se densifier. L'espace
+      se recroqueville. Les lueurs se rapprochent et se multiplient. Silencieusement,
+      un ballet d'astres microscopiques s'assemble en volutes de plus en plus fines.
+      Leur dentelle s'\xE9paissit. Vous ne distinguez bient\xF4t qu'une surface parfaite
+      et continue. Plus \xE9clatante par endroits, elle semble former un infini paysage.
+      Un champ s'allonge. Une for\xEAt fr\xE9mit. Un chemin s'\xE9lance et la lourde
+      concr\xE9tion d'un autel l'attache \xE0 la terre. Vous \xEAtes sur le sol."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

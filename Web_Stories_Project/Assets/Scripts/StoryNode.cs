@@ -10,6 +10,7 @@ public class StoryNode : ScriptableObject
     [TextArea(15, 20)]
     public string description = "";
 
+    public LocalizedString titleLocal;
     public LocalizedString descriptionLocal;
 
     public bool isConclusion = false;

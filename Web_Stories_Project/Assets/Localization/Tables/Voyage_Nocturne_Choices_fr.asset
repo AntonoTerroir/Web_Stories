@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Voyage_Nocturne_Choices_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 32122d98c21b9e045b12527e37cb948b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 9818640384
+    m_Localized: Les suivre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37270360064
+    m_Localized: Fuir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94405169152
+    m_Localized: "Acc\xE9l\xE9rer"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128492277760
+    m_Localized: Tenter de faire demi-tour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 332192845824
+    m_Localized: Plonger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 417471434752
+    m_Localized: Vous accrochez aux parois
+    m_Metadata:
+      m_Items: []
+  - m_Id: 562741153792
+    m_Localized: Tenter de reprendre pied
+    m_Metadata:
+      m_Items: []
+  - m_Id: 655514963968
+    m_Localized: S'abandonner
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740470591488
+    m_Localized: "S'\xE9merveiller"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 803821359104
+    m_Localized: "S'accrocher \xE0 un chien"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 872704413696
+    m_Localized: "S'\xE9lever"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 927360389120
+    m_Localized: Se fondre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 987066306560
+    m_Localized: Rien
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1044771540992
+    m_Localized: Tout
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

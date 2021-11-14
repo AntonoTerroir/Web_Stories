@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 055b5a0455546af479f97e80a33cc343, type: 3}
+  m_Name: VN_1_1_2
+  m_EditorClassIdentifier: 
+  title: 
+  description: 
+  titleLocal:
+    m_TableReference:
+      m_TableCollectionName: GUID:739a93032ef60894d945ec9193795bcf
+    m_TableEntryReference:
+      m_KeyId: 957928476672
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  descriptionLocal:
+    m_TableReference:
+      m_TableCollectionName: GUID:cb4d6290247e5d1439f0989fd9ffb308
+    m_TableEntryReference:
+      m_KeyId: 1813439832064
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  isConclusion: 1
+  conclusionSprite: {fileID: 0}
+  hasOneChoice: 0
+  requiredCondition: {fileID: 0}
+  changeChoiceLeftOnMetCondition: 0
+  changeChoiceRightOnMetCondition: 0
+  changeBothChoicesOnMetCondition: 0
+  choiceLeft: {fileID: 0}
+  choiceRight: {fileID: 0}
+  alternativeChoiceLeft: {fileID: 0}
+  alternativeChoiceRight: {fileID: 0}
+  references:
+    version: 1

@@ -14,6 +14,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Felin.unity
     guid: b00350294ffd52545a220b2c593ed611
+  - enabled: 1
+    path: Assets/Scenes/Voyage_Nocturne.unity
+    guid: 822d2724314afa9489f96782872b4cd4
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: 05e35618fe9bcdf4aa1f6de69c19d6d7, type: 2}
     com.unity.localization.settings: {fileID: 11400000, guid: 964ec236b8da4ca47a7485c1c8be2896, type: 2}

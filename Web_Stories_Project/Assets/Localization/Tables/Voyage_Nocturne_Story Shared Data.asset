@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Voyage_Nocturne_Story Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Voyage_Nocturne_Story
+  m_TableCollectionNameGuidString: cb4d6290247e5d1439f0989fd9ffb308
+  m_Entries:
+  - m_Id: 8999919616
+    m_Key: VN_Intro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 898548883456
+    m_Key: VN_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 980794990592
+    m_Key: VN_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1407183740928
+    m_Key: VN_1_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1558551977984
+    m_Key: VN_1_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1718598230016
+    m_Key: VN_1_1_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1813439832064
+    m_Key: VN_1_1_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1896390582272
+    m_Key: VN_1_2_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1982747107328
+    m_Key: VN_1_2_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2075172790272
+    m_Key: VN_2_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2183616520192
+    m_Key: VN_2_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2243045613568
+    m_Key: VN_2_1_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2327418232832
+    m_Key: VN_2_1_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2392425750528
+    m_Key: VN_2_2_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2520427520000
+    m_Key: VN_2_2_2
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1634401774090
