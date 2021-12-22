@@ -53,6 +53,10 @@ MonoBehaviour:
     m_Address: Assets/Localization/Tables/Voyage_Nocturne_Titles Shared Data.asset
     m_ReadOnly: 1
     m_SerializedLabels: []
+  - m_GUID: c2e0567311c1c8641ab01bfabc416c4d
+    m_Address: Assets/Localization/Tables/Plomberie_Au_Tripot_Titles Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 0f24e7e21121cba49b979279f252863f, type: 2}
   m_SchemaSet:

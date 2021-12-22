@@ -542,6 +542,7 @@ GameObject:
   - component: {fileID: 276064754}
   - component: {fileID: 276064753}
   - component: {fileID: 276064758}
+  - component: {fileID: 276064759}
   m_Layer: 5
   m_Name: Button
   m_TagString: Untagged
@@ -738,6 +739,42 @@ MonoBehaviour:
             m_StringArgument: 
             m_BoolArgument: 0
           m_CallState: 2
+--- !u!114 &276064759
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 276064751}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a49ce39e0a6bb0e44bd0cb8a99fafa3e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hoverEnabled: 1
+  clickEnabled: 1
+  pressEnabled: 0
+  clickEventRef:
+    Guid:
+      Data1: 0
+      Data2: 0
+      Data3: 0
+      Data4: 0
+    Path: 
+  hoverEventRef:
+    Guid:
+      Data1: 0
+      Data2: 0
+      Data3: 0
+      Data4: 0
+    Path: 
+  pressEventRef:
+    Guid:
+      Data1: 0
+      Data2: 0
+      Data3: 0
+      Data4: 0
+    Path: 
 --- !u!1 &287556469
 GameObject:
   m_ObjectHideFlags: 0
@@ -813,6 +850,70 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 287556469}
   m_CullTransparentMesh: 1
+--- !u!1 &476220001
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 476220003}
+  - component: {fileID: 476220002}
+  m_Layer: 0
+  m_Name: SoundManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &476220002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 476220001}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c67fa880ccd8b44f91a6870772ed853, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  genericClickSound:
+    Guid:
+      Data1: 320492477
+      Data2: 1160473066
+      Data3: -645456227
+      Data4: 1642184377
+    Path: event:/Test_Event
+  genericHoverSound:
+    Guid:
+      Data1: 320492477
+      Data2: 1160473066
+      Data3: -645456227
+      Data4: 1642184377
+    Path: event:/Test_Event
+  musMainLoop:
+    Guid:
+      Data1: 320492477
+      Data2: 1160473066
+      Data3: -645456227
+      Data4: 1642184377
+    Path: event:/Test_Event
+--- !u!4 &476220003
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 476220001}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 547.1831, y: 370.927, z: -31.870869}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &528479451
 GameObject:
   m_ObjectHideFlags: 0

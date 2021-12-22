@@ -23,7 +23,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 47496073216
-    m_Localized: LES SUIVRE
+    m_Localized: SUIVRE LES SINGES
     m_Metadata:
       m_Items: []
   - m_Id: 646266523648
@@ -35,7 +35,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 783780974592
-    m_Localized: TENTER DE FAIRE DEMI-TOUR
+    m_Localized: "TENTER DE REVENIR EN ARRI\xC8RE"
     m_Metadata:
       m_Items: []
   - m_Id: 910235045888
@@ -43,7 +43,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 957928476672
-    m_Localized: VOUS ACCROCHEZ AUX PAROIS
+    m_Localized: AGRIPPER LES PAROIS
     m_Metadata:
       m_Items: []
   - m_Id: 1026874445824
@@ -59,15 +59,15 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 1273159782400
-    m_Localized: "S'ACCROCHER \xC0 UN CHIEN"
+    m_Localized: ATTRAPER UN SPECTRE
     m_Metadata:
       m_Items: []
   - m_Id: 1348795666432
-    m_Localized: "S'\xC9LEVER"
+    m_Localized: "S'\xC9LEVER LENTEMENT"
     m_Metadata:
       m_Items: []
   - m_Id: 1849226465280
-    m_Localized: SE FONDRE
+    m_Localized: SE FONDRE DANS LE NUAGE
     m_Metadata:
       m_Items: []
   - m_Id: 1901323915264

@@ -217,6 +217,7 @@ public class GameManager : MonoBehaviour
 
     private IEnumerator ReplayStructure()
     {
+        Debug.Log("bah alors ?");
         transitionManager.StartTransition();
         yield return new WaitForSeconds(transitionManager.speedTransition);
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);

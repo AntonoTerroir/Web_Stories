@@ -17,6 +17,62 @@ MonoBehaviour:
   m_SharedData: {fileID: 11400000, guid: 739a93032ef60894d945ec9193795bcf, type: 2}
   m_Metadata:
     m_Items: []
-  m_TableData: []
+  m_TableData:
+  - m_Id: 47496073216
+    m_Localized: FOLLOW THE MONKEYS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 646266523648
+    m_Localized: RUN AWAY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 706165379072
+    m_Localized: HASTEN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 783780974592
+    m_Localized: TRY TO GO BACK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 910235045888
+    m_Localized: DIVE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 957928476672
+    m_Localized: TRY TO GRAB THE WALLS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1026874445824
+    m_Localized: TRY TO REGAIN CONTROL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1084483211264
+    m_Localized: ABANDON YOURSELF
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1170776821760
+    m_Localized: MARVEL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1273159782400
+    m_Localized: GRAB A SPECTER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1348795666432
+    m_Localized: RISE UP QUIETLY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1849226465280
+    m_Localized: MELT INTO THE CLOUD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1901323915264
+    m_Localized: NOTHING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1949134786560
+    m_Localized: EVERYTHING
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

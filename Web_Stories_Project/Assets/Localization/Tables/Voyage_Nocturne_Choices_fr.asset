@@ -19,7 +19,7 @@ MonoBehaviour:
     m_Items: []
   m_TableData:
   - m_Id: 9818640384
-    m_Localized: Les suivre
+    m_Localized: Suivre les singes
     m_Metadata:
       m_Items: []
   - m_Id: 37270360064
@@ -31,7 +31,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 128492277760
-    m_Localized: Tenter de faire demi-tour
+    m_Localized: "Tenter de revenir en arri\xE8re"
     m_Metadata:
       m_Items: []
   - m_Id: 332192845824
@@ -39,7 +39,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 417471434752
-    m_Localized: Vous accrochez aux parois
+    m_Localized: Agripper les parois
     m_Metadata:
       m_Items: []
   - m_Id: 562741153792
@@ -55,15 +55,15 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 803821359104
-    m_Localized: "S'accrocher \xE0 un chien"
+    m_Localized: Attraper un spectre
     m_Metadata:
       m_Items: []
   - m_Id: 872704413696
-    m_Localized: "S'\xE9lever"
+    m_Localized: "S'\xE9lever lentement"
     m_Metadata:
       m_Items: []
   - m_Id: 927360389120
-    m_Localized: Se fondre
+    m_Localized: Se fondre dans le nuage
     m_Metadata:
       m_Items: []
   - m_Id: 987066306560

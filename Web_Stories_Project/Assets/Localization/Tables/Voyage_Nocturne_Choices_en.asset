@@ -17,6 +17,62 @@ MonoBehaviour:
   m_SharedData: {fileID: 11400000, guid: 32122d98c21b9e045b12527e37cb948b, type: 2}
   m_Metadata:
     m_Items: []
-  m_TableData: []
+  m_TableData:
+  - m_Id: 9818640384
+    m_Localized: Follow the monkeys
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37270360064
+    m_Localized: Run away
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94405169152
+    m_Localized: Hasten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128492277760
+    m_Localized: Try to go back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 332192845824
+    m_Localized: Dive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 417471434752
+    m_Localized: Try to grab the walls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 562741153792
+    m_Localized: Try to regain control
+    m_Metadata:
+      m_Items: []
+  - m_Id: 655514963968
+    m_Localized: Abandon yourself
+    m_Metadata:
+      m_Items: []
+  - m_Id: 740470591488
+    m_Localized: Marvel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 803821359104
+    m_Localized: Grab a specter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 872704413696
+    m_Localized: Rise up quietly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 927360389120
+    m_Localized: Melt into the cloud
+    m_Metadata:
+      m_Items: []
+  - m_Id: 987066306560
+    m_Localized: Nothing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1044771540992
+    m_Localized: Everything
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

@@ -17,6 +17,15 @@ MonoBehaviour:
     gravit\xE9, livide. Il vous jette dehors, effray\xE9 par les sombres pr\xE9sages
     qui vous accompagnent. Il avait raison d\u2019avoir peur pour vous, vous devenez
     le lendemain la nouvelle \xE9g\xE9rie de T\xE9l\xE9 7 jours."
+  titleLocal:
+    m_TableReference:
+      m_TableCollectionName: GUID:c2e0567311c1c8641ab01bfabc416c4d
+    m_TableEntryReference:
+      m_KeyId: 1202842275840
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
   descriptionLocal:
     m_TableReference:
       m_TableCollectionName: GUID:86ad89cb04013714ca61503f410df658
@@ -29,7 +38,13 @@ MonoBehaviour:
   isConclusion: 1
   conclusionSprite: {fileID: 21300000, guid: 2ce627c276dd94140b1a49ce44a3ee9d, type: 3}
   hasOneChoice: 0
+  requiredCondition: {fileID: 0}
+  changeChoiceLeftOnMetCondition: 0
+  changeChoiceRightOnMetCondition: 0
+  changeBothChoicesOnMetCondition: 0
   choiceLeft: {fileID: 0}
   choiceRight: {fileID: 0}
+  alternativeChoiceLeft: {fileID: 0}
+  alternativeChoiceRight: {fileID: 0}
   references:
     version: 1
