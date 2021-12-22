@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Plomberie_Au_Tripot_Titles
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: c2e0567311c1c8641ab01bfabc416c4d, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 3ab3d3d94b08f55488a0a95399af8661, type: 2}
+  - {fileID: 11400000, guid: 0422bd84ae09abc43a333e8e3dee44a1, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 1

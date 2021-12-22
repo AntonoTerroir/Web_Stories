@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Plomberie_Au_Tripot_Titles_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: c2e0567311c1c8641ab01bfabc416c4d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 333165924352
+    m_Localized: CHEZ YVON
+    m_Metadata:
+      m_Items: []
+  - m_Id: 303373783040
+    m_Localized: PLOMBERIE AU TRIPOT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 362102427648
+    m_Localized: L'HEURE DES JEUX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1202842275840
+    m_Localized: LA CLEF VERTE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1344324538368
+    m_Localized: LA CLEF ROUGE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1646415089664
+    m_Localized: LE GANG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1757664808960
+    m_Localized: LA VOIE DU PLEUTRE
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Plomberie_Au_Tripot_Titles Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Plomberie_Au_Tripot_Titles
+  m_TableCollectionNameGuidString: c2e0567311c1c8641ab01bfabc416c4d
+  m_Entries:
+  - m_Id: 303373783040
+    m_Key: PT_Intro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 333165924352
+    m_Key: PT_01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 362102427648
+    m_Key: PT_02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1202842275840
+    m_Key: PT_01_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1344324538368
+    m_Key: PT_01_B
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1646415089664
+    m_Key: PT_02_A
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1757664808960
+    m_Key: PT_02_B
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1640168542181
